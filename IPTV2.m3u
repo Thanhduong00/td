@@ -1,4 +1,4 @@
-#EXTM3U url-tvg="http://gg.gg/epgbearlivetv" tvg-shift=0 m3uautoload=1
+#EXTM3U url-tvg="http://gg.gg/8zy29" tvg-shift=0 m3uautoload=1
 
 #EXTM3U BEARTV - Luôn cập nhật kênh ổn định
 
@@ -65,10 +65,10 @@ https://vips-livecdn.fptplay.net/hda2/ttxvn_vhls.smil/chunklist_b5000000.m3u8
 http://chipcun.dynu.com:333/xemtv47/xemtv47kenh.m3u8?kenh=ttxvn
 
 
-#EXTINF:1 tvg-id="vtvcab1hd" gruop-title="VTVCAB" tvg-logo="https://lichphatsongtivi.com/storage/images/thumbnails/lich-phat-song-vtvcab1-vie-giai-tri.png",VTVCab1 
+#EXTINF:2 tvg-id="vtvcab1hd" gruop-title="VTVCAB" tvg-logo="https://lichphatsongtivi.com/storage/images/thumbnails/lich-phat-song-vtvcab1-vie-giai-tri.png",VTVCab1 
 #EXTVLCOPT:http-user-agent="TLNQChannelTV"
 https://e3.endpoint.cdn.sctvonline.vn/hls/vtvcab1/index.m3u8|Referer=https://sctvonline.vn
-#EXTINF:-1 tvg-id"vtvcab2hd" gruop-title="VTVCAB" tvg-logo="https://static.wikia.nocookie.net/logos/images/8/8f/ON_Phim_Vi%E1%BB%87t_logo_%28VTVCab_2%29.png/revision/latest?cb=20210908105146&path-prefix=vi",VTVCab2 
+#EXTINF:2 tvg-id"vtvcab2hd" gruop-title="VTVCAB" tvg-logo="https://static.wikia.nocookie.net/logos/images/8/8f/ON_Phim_Vi%E1%BB%87t_logo_%28VTVCab_2%29.png/revision/latest?cb=20210908105146&path-prefix=vi",VTVCab2 
 #EXTVLCOPT:http-user-agent="TLNQChannelTV 
 https://e3.endpoint.cdn.sctvonline.vn/hls/vtvcab2/index.m3u8|Referer=https://sctvonline.vn/
 #EXTINF:-1 tvg-id="vtvcab3hd" gruop-title="VTVCAB" tvg-logo="https://static.wikia.nocookie.net/logos/images/f/fc/ON_Sports_TV_logo_%28Th%E1%BB%83_Thao_TV%29.png/revision/latest?cb=20210908104950&path-prefix=vi",VTVCab3 
