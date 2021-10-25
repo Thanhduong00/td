@@ -43,7 +43,7 @@ http://drfamaga5qliv.vcdn.cloud/vtv09/vtv09@1080p.m3u8
 https://mutixx5hq1liv.akamaized.net/vtv5tnb/vtv5tnb@720p.m3u8
 #EXTINF:-1 tvg-id="vtv5hdtn" group-title="VTV" tvg-logo="https://i.ibb.co/zVJz2CQ/VTV5-TN-BEARTV.png" ,VTV5 Tây Nguyên
 https://mutixx5hq1liv.akamaized.net/vtv5tn/vtv5tn@720p.m3u8
-#EXTINF:0 group-title="Kênh Địa Phương" tvg-logo="https://i.ibb.co/LSTRSpQ/quangngaitv-BEARTV.png",Quảng Ngãi
+#EXTINF:0 group-title="VTV" tvg-logo="https://i.ibb.co/LSTRSpQ/quangngaitv-BEARTV.png",Quảng Ngãi
 http://118.107.85.5:1935/live/smil:PTQ.smil/chunklist_w1747857222_b1384000.m3u8
 
 
@@ -68,7 +68,7 @@ http://chipcun.dynu.com:333/xemtv47/xemtv47kenh.m3u8?kenh=ttxvn
 
 
 
-#EXTINF:0 tvg-id="vtvcab1hd" group-titleVTVcab" tvg-logo="https://vthanh.xyz/ic/12.png", VTVcab 1 - Vie Giải trí HD
+#EXTINF:-1 tvg-id="vtvcab1hd" group-titleVTVcab" tvg-logo="https://vthanh.xyz/ic/12.png", VTVcab 1 - Vie Giải trí HD
 http://vthanh.xyz/vieon.m3u8?type=tivi&kenh=vie-giai-tri-hd
 #EXTINF:-1 tvg-id="vtvcab2hd" group-titleVTVcab" tvg-logo="https://vthanh.xyz/ic/13.png", VTVcab 2 - On Phim Việt
 http://vthanh.xyz/sctv.m3u8?id=vtvcab2|Referer=http://sctvonline.vn
@@ -1143,3 +1143,7 @@ http://cctvalih5ca.v.myalicdn.com:80/live/cctv5_2/index.m3u8
 http://cctvalih5ca.v.myalicdn.com:80/live/cctv5plus_2/index.m3u8
 #EXTINF:-1 tvg-id="hunan" group-title="Quốc Tế" tvg-logo="https://i.ibb.co/fNjFPVZ/Hunan-TV-BEARTV.png", HỒ NAM TV
 http://140.207.241.3:8080/live/program/live/hnwshd/4000000/mnf.m3u8
+
+
+
+
