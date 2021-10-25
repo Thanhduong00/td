@@ -68,37 +68,37 @@ http://chipcun.dynu.com:333/xemtv47/xemtv47kenh.m3u8?kenh=ttxvn
 
 
 
-#EXTINF:-1 tvg-id="vtvcab1hd" group-titleVTVcab" tvg-logo="https://vthanh.xyz/ic/12.png", VTVcab 1 - Vie Giải trí HD
+#EXTINF:-1 tvg-id="vtvcab1hd" group-title="VTVcab" tvg-logo="https://vthanh.xyz/ic/12.png", VTVcab 1 - Vie Giải trí HD
 http://vthanh.xyz/vieon.m3u8?type=tivi&kenh=vie-giai-tri-hd
-#EXTINF:-1 tvg-id="vtvcab2hd" group-titleVTVcab" tvg-logo="https://vthanh.xyz/ic/13.png", VTVcab 2 - On Phim Việt
+#EXTINF:-1 tvg-id="vtvcab2hd" group-title="VTVcab" tvg-logo="https://vthanh.xyz/ic/13.png", VTVcab 2 - On Phim Việt
 http://vthanh.xyz/sctv.m3u8?id=vtvcab2|Referer=http://sctvonline.vn
-#EXTINF:-1 tvg-id="vtvcab3hd" group-titleVTVcab" tvg-logo="https://vthanh.xyz/ic/14.png", VTVcab 3 - On Sports
+#EXTINF:-1 tvg-id="vtvcab3hd" group-title="VTVcab" tvg-logo="https://vthanh.xyz/ic/14.png", VTVcab 3 - On Sports
 http://vthanh.xyz/sctv.m3u8?id=vtvcab3|Referer=http://sctvonline.vn
-#EXTINF:-1 tvg-id="vtvcab4hd" group-titleVTVcab" tvg-logo="https://vthanh.xyz/ic/16.png", VTVcab 4
+#EXTINF:-1 tvg-id="vtvcab4hd" group-title="VTVcab" tvg-logo="https://vthanh.xyz/ic/16.png", VTVcab 4
 http://vthanh.xyz/sctv.m3u8?id=vtvcab4|Referer=http://sctvonline.vn
-#EXTINF:-1 tvg-id="vtvcab5hd" group-titleVTVcab" tvg-logo="https://vthanh.xyz/ic/17.png", VTVcab 5 - E Channel
+#EXTINF:-1 tvg-id="vtvcab5hd" group-title="VTVcab" tvg-logo="https://vthanh.xyz/ic/17.png", VTVcab 5 - E Channel
 http://vthanh.xyz/sctv.m3u8?id=vtvcab5|Referer=http://sctvonline.vn
-#EXTINF:-1 tvg-id="vtvcab6hd" group-titleVTVcab" tvg-logo="https://vthanh.xyz/ic/18.png", VTVcab 6 - On Sports +
+#EXTINF:-1 tvg-id="vtvcab6hd" group-title="VTVcab" tvg-logo="https://vthanh.xyz/ic/18.png", VTVcab 6 - On Sports +
 http://vthanh.xyz/sctv.m3u8?id=vtvcab6|Referer=http://sctvonline.vn
-#EXTINF:-1 tvg-id="vtvcab7hd" group-titleVTVcab" tvg-logo="https://vthanh.xyz/ic/19.png", VTVcab 7 - Sức khỏe và Cuộc sống
+#EXTINF:-1 tvg-id="vtvcab7hd" group-title="VTVcab" tvg-logo="https://vthanh.xyz/ic/19.png", VTVcab 7 - Sức khỏe và Cuộc sống
 http://vthanh.xyz/sctv.m3u8?id=vtvcab7|Referer=http://sctvonline.vn
-#EXTINF:-1 tvg-id="vtvcab8hd" group-titleVTVcab" tvg-logo="https://vthanh.xyz/ic/20.png", VTVcab 8 - BiBi
+#EXTINF:-1 tvg-id="vtvcab8hd" group-title="VTVcab" tvg-logo="https://vthanh.xyz/ic/20.png", VTVcab 8 - BiBi
 http://vthanh.xyz/sctv.m3u8?id=vtvcab8|Referer=http://sctvonline.vn
-#EXTINF:-1 tvg-id="vtvcab9hd" group-titleVTVcab" tvg-logo="https://vthanh.xyz/ic/21.png", VTVcab 9 - Info TV
+#EXTINF:-1 tvg-id="vtvcab9hd" group-title="VTVcab" tvg-logo="https://vthanh.xyz/ic/21.png", VTVcab 9 - Info TV
 http://vthanh.xyz/sctv.m3u8?id=vtvcab9|Referer=http://sctvonline.vn
-#EXTINF:-1 tvg-id="vtvcab10hd" group-titleVTVcab" tvg-logo="https://vthanh.xyz/ic/22.png", VTVcab 10 - On Cine
+#EXTINF:-1 tvg-id="vtvcab10hd" group-title="VTVcab" tvg-logo="https://vthanh.xyz/ic/22.png", VTVcab 10 - On Cine
 http://vthanh.xyz/sctv.m3u8?id=vtvcab10|Referer=http://sctvonline.vn
-#EXTINF:-1 tvg-id="vtvcab12hd" group-titleVTVcab" tvg-logo="https://vthanh.xyz/ic/23.png", VTVcab 12 - Style TV
+#EXTINF:-1 tvg-id="vtvcab12hd" group-title="VTVcab" tvg-logo="https://vthanh.xyz/ic/23.png", VTVcab 12 - Style TV
 http://vthanh.xyz/sctv.m3u8?id=vtvcab12|Referer=http://sctvonline.vn
-#EXTINF:-1 tvg-id="vtvcab15hd" group-titleVTVcab" tvg-logo="https://vthanh.xyz/ic/24.png", VTVcab 15
+#EXTINF:-1 tvg-id="vtvcab15hd" group-title="VTVcab" tvg-logo="https://vthanh.xyz/ic/24.png", VTVcab 15
 http://vthanh.xyz/sctv.m3u8?id=vtvcab15|Referer=http://sctvonline.vn
-#EXTINF:-1 tvg-id="vtvcab16hd" group-titleVTVcab" tvg-logo="https://vthanh.xyz/ic/26.png", VTVcab 16 - On Football
+#EXTINF:-1 tvg-id="vtvcab16hd" group-title="VTVcab" tvg-logo="https://vthanh.xyz/ic/26.png", VTVcab 16 - On Football
 http://vthanh.xyz/sctv.m3u8?id=vtvcab16|Referer=http://sctvonline.vn
-#EXTINF:-1 tvg-id="vtvcab17hd" group-titleVTVcab" tvg-logo="https://vthanh.xyz/ic/27.png", VTVcab 17 - Yeah1TV
+#EXTINF:-1 tvg-id="vtvcab17hd" group-title="VTVcab" tvg-logo="https://vthanh.xyz/ic/27.png", VTVcab 17 - Yeah1TV
 http://vthanh.xyz/sctv.m3u8?id=vtvcab17|Referer=http://sctvonline.vn
-#EXTINF:-1 tvg-id="vtvcab19hd" group-titleVTVcab" tvg-logo="https://vthanh.xyz/ic/29.png", VTVcab 19 - Vie Dramas
+#EXTINF:-1 tvg-id="vtvcab19hd" group-title="VTVcab" tvg-logo="https://vthanh.xyz/ic/29.png", VTVcab 19 - Vie Dramas
 http://vthanh.xyz/vieon.m3u8?type=tivi&kenh=vie-dramas-hd
-#EXTINF:-1 tvg-id="vtvcab20hd" group-titleVTVcab" tvg-logo="https://vthanh.xyz/ic/30.png", VTVcab 20 - VFamily
+#EXTINF:-1 tvg-id="vtvcab20hd" group-title="VTVcab" tvg-logo="https://vthanh.xyz/ic/30.png", VTVcab 20 - VFamily
 http://vthanh.xyz/sctv.m3u8?id=vtvcab20|Referer=http://sctvonline.vn
 
 
