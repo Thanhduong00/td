@@ -43,7 +43,8 @@ http://drfamaga5qliv.vcdn.cloud/vtv09/vtv09@1080p.m3u8
 https://mutixx5hq1liv.akamaized.net/vtv5tnb/vtv5tnb@720p.m3u8
 #EXTINF:-1 tvg-id="vtv5hdtn" group-title="VTV" tvg-logo="https://i.ibb.co/zVJz2CQ/VTV5-TN-BEARTV.png" ,VTV5 Tây Nguyên
 https://mutixx5hq1liv.akamaized.net/vtv5tn/vtv5tn@720p.m3u8
-
+#EXTINF:-1 group-title="Kênh Địa Phương" tvg-logo="https://i.ibb.co/LSTRSpQ/quangngaitv-BEARTV.png",Quảng Ngãi
+http://118.107.85.5:1935/live/smil:PTQ.smil/chunklist_w1747857222_b1384000.m3u8
 
 
 #EXTINF:0 tvg-id="antvhd"group-title="Thời Sự - Chính Trị" tvg-logo="https://i.ibb.co/9wxKmLH/ANTV-BEARTV.png", ANTV HD
@@ -67,77 +68,73 @@ http://chipcun.dynu.com:333/xemtv47/xemtv47kenh.m3u8?kenh=ttxvn
 
 
 #-*--VTVCAB-*--#
-#EXTINF:-1 tvg-id="vtvcab1hd" group-title="🧡| VTVcab" tvg-logo="https://vthanh.xyz/ic/12.png", VTVcab 1 - Vie Giải trí HD
+#EXTINF:-1 tvg-id="vtvcab1hd" group-titleVTVcab" tvg-logo="https://vthanh.xyz/ic/12.png", VTVcab 1 - Vie Giải trí HD
 http://vthanh.xyz/vieon.m3u8?type=tivi&kenh=vie-giai-tri-hd
-#EXTINF:-1 tvg-id="vtvcab2hd" group-title="🧡| VTVcab" tvg-logo="https://vthanh.xyz/ic/13.png", VTVcab 2 - On Phim Việt
+#EXTINF:-1 tvg-id="vtvcab2hd" group-titleVTVcab" tvg-logo="https://vthanh.xyz/ic/13.png", VTVcab 2 - On Phim Việt
 http://vthanh.xyz/sctv.m3u8?id=vtvcab2|Referer=http://sctvonline.vn
-#EXTINF:-1 tvg-id="vtvcab3hd" group-title="🧡| VTVcab" tvg-logo="https://vthanh.xyz/ic/14.png", VTVcab 3 - On Sports
+#EXTINF:-1 tvg-id="vtvcab3hd" group-titleVTVcab" tvg-logo="https://vthanh.xyz/ic/14.png", VTVcab 3 - On Sports
 http://vthanh.xyz/sctv.m3u8?id=vtvcab3|Referer=http://sctvonline.vn
-#EXTINF:-1 tvg-id="vtvcab4hd" group-title="🧡| VTVcab" tvg-logo="https://vthanh.xyz/ic/16.png", VTVcab 4
+#EXTINF:-1 tvg-id="vtvcab4hd" group-titleVTVcab" tvg-logo="https://vthanh.xyz/ic/16.png", VTVcab 4
 http://vthanh.xyz/sctv.m3u8?id=vtvcab4|Referer=http://sctvonline.vn
-#EXTINF:-1 tvg-id="vtvcab5hd" group-title="🧡| VTVcab" tvg-logo="https://vthanh.xyz/ic/17.png", VTVcab 5 - E Channel
+#EXTINF:-1 tvg-id="vtvcab5hd" group-titleVTVcab" tvg-logo="https://vthanh.xyz/ic/17.png", VTVcab 5 - E Channel
 http://vthanh.xyz/sctv.m3u8?id=vtvcab5|Referer=http://sctvonline.vn
-#EXTINF:-1 tvg-id="vtvcab6hd" group-title="🧡| VTVcab" tvg-logo="https://vthanh.xyz/ic/18.png", VTVcab 6 - On Sports +
+#EXTINF:-1 tvg-id="vtvcab6hd" group-titleVTVcab" tvg-logo="https://vthanh.xyz/ic/18.png", VTVcab 6 - On Sports +
 http://vthanh.xyz/sctv.m3u8?id=vtvcab6|Referer=http://sctvonline.vn
-#EXTINF:-1 tvg-id="vtvcab7hd" group-title="🧡| VTVcab" tvg-logo="https://vthanh.xyz/ic/19.png", VTVcab 7 - Sức khỏe và Cuộc sống
+#EXTINF:-1 tvg-id="vtvcab7hd" group-titleVTVcab" tvg-logo="https://vthanh.xyz/ic/19.png", VTVcab 7 - Sức khỏe và Cuộc sống
 http://vthanh.xyz/sctv.m3u8?id=vtvcab7|Referer=http://sctvonline.vn
-#EXTINF:-1 tvg-id="vtvcab8hd" group-title="🧡| VTVcab" tvg-logo="https://vthanh.xyz/ic/20.png", VTVcab 8 - BiBi
+#EXTINF:-1 tvg-id="vtvcab8hd" group-titleVTVcab" tvg-logo="https://vthanh.xyz/ic/20.png", VTVcab 8 - BiBi
 http://vthanh.xyz/sctv.m3u8?id=vtvcab8|Referer=http://sctvonline.vn
-#EXTINF:-1 tvg-id="vtvcab9hd" group-title="🧡| VTVcab" tvg-logo="https://vthanh.xyz/ic/21.png", VTVcab 9 - Info TV
+#EXTINF:-1 tvg-id="vtvcab9hd" group-titleVTVcab" tvg-logo="https://vthanh.xyz/ic/21.png", VTVcab 9 - Info TV
 http://vthanh.xyz/sctv.m3u8?id=vtvcab9|Referer=http://sctvonline.vn
-#EXTINF:-1 tvg-id="vtvcab10hd" group-title="🧡| VTVcab" tvg-logo="https://vthanh.xyz/ic/22.png", VTVcab 10 - On Cine
+#EXTINF:-1 tvg-id="vtvcab10hd" group-titleVTVcab" tvg-logo="https://vthanh.xyz/ic/22.png", VTVcab 10 - On Cine
 http://vthanh.xyz/sctv.m3u8?id=vtvcab10|Referer=http://sctvonline.vn
-#EXTINF:-1 tvg-id="vtvcab12hd" group-title="🧡| VTVcab" tvg-logo="https://vthanh.xyz/ic/23.png", VTVcab 12 - Style TV
+#EXTINF:-1 tvg-id="vtvcab12hd" group-titleVTVcab" tvg-logo="https://vthanh.xyz/ic/23.png", VTVcab 12 - Style TV
 http://vthanh.xyz/sctv.m3u8?id=vtvcab12|Referer=http://sctvonline.vn
-#EXTINF:-1 tvg-id="vtvcab15hd" group-title="🧡| VTVcab" tvg-logo="https://vthanh.xyz/ic/24.png", VTVcab 15
+#EXTINF:-1 tvg-id="vtvcab15hd" group-titleVTVcab" tvg-logo="https://vthanh.xyz/ic/24.png", VTVcab 15
 http://vthanh.xyz/sctv.m3u8?id=vtvcab15|Referer=http://sctvonline.vn
-#EXTINF:-1 tvg-id="vtvcab16hd" group-title="🧡| VTVcab" tvg-logo="https://vthanh.xyz/ic/26.png", VTVcab 16 - On Football
+#EXTINF:-1 tvg-id="vtvcab16hd" group-titleVTVcab" tvg-logo="https://vthanh.xyz/ic/26.png", VTVcab 16 - On Football
 http://vthanh.xyz/sctv.m3u8?id=vtvcab16|Referer=http://sctvonline.vn
-#EXTINF:-1 tvg-id="vtvcab17hd" group-title="🧡| VTVcab" tvg-logo="https://vthanh.xyz/ic/27.png", VTVcab 17 - Yeah1TV
+#EXTINF:-1 tvg-id="vtvcab17hd" group-titleVTVcab" tvg-logo="https://vthanh.xyz/ic/27.png", VTVcab 17 - Yeah1TV
 http://vthanh.xyz/sctv.m3u8?id=vtvcab17|Referer=http://sctvonline.vn
-#EXTINF:-1 tvg-id="vtvcab19hd" group-title="🧡| VTVcab" tvg-logo="https://vthanh.xyz/ic/29.png", VTVcab 19 - Vie Dramas
+#EXTINF:-1 tvg-id="vtvcab19hd" group-titleVTVcab" tvg-logo="https://vthanh.xyz/ic/29.png", VTVcab 19 - Vie Dramas
 http://vthanh.xyz/vieon.m3u8?type=tivi&kenh=vie-dramas-hd
-#EXTINF:-1 tvg-id="vtvcab20hd" group-title="🧡| VTVcab" tvg-logo="https://vthanh.xyz/ic/30.png", VTVcab 20 - VFamily
+#EXTINF:-1 tvg-id="vtvcab20hd" group-titleVTVcab" tvg-logo="https://vthanh.xyz/ic/30.png", VTVcab 20 - VFamily
 http://vthanh.xyz/sctv.m3u8?id=vtvcab20|Referer=http://sctvonline.vn
 
 
 
 
 #-*--Kẹo-*--#
-#EXTINF:-1 tvg-id="" group-title="🍭| K+" tvg-logo="https://kplus-website-production-cdn.azureedge.net/content/upload/1/root/kplus-logo.png", Chỉ xem được trên TiviMate
-https://dl.dropboxusercontent.com/s/hqgf2il9d35h2qh/%C4%90%E1%BB%83%20Hu%E1%BA%A5n%20n%C3%B3i%20cho%20m%C3%A0%20nghe%20(%20Melozing%20Parody%20).mp4?dl=0
-#EXTINF:-1 tvg-id="" group-title="🍭| K+" tvg-logo="https://kplus-website-production-cdn.azureedge.net/content/upload/1/root/kplus-logo.png", Key được chia sẻ miễn phí, nếu die không chịu trách nhiệm.
-https://dl.dropboxusercontent.com/s/hqgf2il9d35h2qh/%C4%90%E1%BB%83%20Hu%E1%BA%A5n%20n%C3%B3i%20cho%20m%C3%A0%20nghe%20(%20Melozing%20Parody%20).mp4?dl=0
 
-#EXTINF:-1 tvg-id="kcinehd" group-title="🍭| K+" tvg-logo="https://img.kplus.vn/media/channels/sg/channelicons/KCINE.png", K+CINE HD
+#EXTINF:-1 tvg-id="kcinehd" group-title="K+" tvg-logo="https://img.kplus.vn/media/channels/sg/channelicons/KCINE.png", K+CINE HD
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://kplus.live.ott.irdeto.com/Widevine/GetLicense?CrmId=kplus&AccountId=kplus&ContentId=400000015&SessionId=B3A30136DB4CCE5E&Ticket=8B2100CB60332994|Accept-Language=vi&Content-Type=application%2Foctet-stream&Host=kplus.live.ott.irdeto.com&Origin=https%3A%2F%2Fxem.kplus.vn&User-Agent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F92.0.4515.159+Safari%2F537.36|R{{SSM}}|Accept-Language=vi&Content-Type=application%2Foctet-stream&Host=kplus.live.ott.irdeto.com&Origin=https%3A%2F%2Fxem.kplus.vn&User-Agent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F92.0.4515.159+Safari%2F537.36|R{{SSM}}
 https://kpluslive.akamaized.net/live/prod_kplus_1_hd_fps/prod_kplus_1_hd_fps.isml/prod_kplus_1_hd_fps.mpd
-#EXTINF:-1 tvg-id="klifehd" group-title="🍭| K+" tvg-logo="https://img.kplus.vn/media/channels/sg/channelicons/KLIFE.png", K+LIFE HD
+#EXTINF:-1 tvg-id="klifehd" group-title="K+" tvg-logo="https://img.kplus.vn/media/channels/sg/channelicons/KLIFE.png", K+LIFE HD
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://kplus.live.ott.irdeto.com/Widevine/GetLicense?CrmId=kplus&AccountId=kplus&ContentId=400000016&SessionId=B3A30136DB4CCE5E&Ticket=8B2100CB60332994|Accept-Language=vi&Content-Type=application%2Foctet-stream&Host=kplus.live.ott.irdeto.com&Origin=https%3A%2F%2Fxem.kplus.vn&User-Agent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F92.0.4515.159+Safari%2F537.36|R{{SSM}}|Accept-Language=vi&Content-Type=application%2Foctet-stream&Host=kplus.live.ott.irdeto.com&Origin=https%3A%2F%2Fxem.kplus.vn&User-Agent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F92.0.4515.159+Safari%2F537.36|R{{SSM}}
 https://kpluslive.akamaized.net/live/prod_kplus_ns_hd_fps/prod_kplus_ns_hd_fps.isml/prod_kplus_ns_hd_fps.mpd
-#EXTINF:-1 tvg-id="ksport1hd" group-title="🍭| K+" tvg-logo="https://img.kplus.vn/media/channels/sg/channelicons/KSPORT1.png", K+SPORT1 HD
+#EXTINF:-1 tvg-id="ksport1hd" group-title="K+" tvg-logo="https://img.kplus.vn/media/channels/sg/channelicons/KSPORT1.png", K+SPORT1 HD
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://kplus.live.ott.irdeto.com/Widevine/GetLicense?CrmId=kplus&AccountId=kplus&ContentId=400000017&SessionId=B3A30136DB4CCE5E&Ticket=8B2100CB60332994|Accept-Language=vi&Content-Type=application%2Foctet-stream&Host=kplus.live.ott.irdeto.com&Origin=https%3A%2F%2Fxem.kplus.vn&User-Agent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F92.0.4515.159+Safari%2F537.36|R{{SSM}}|Accept-Language=vi&Content-Type=application%2Foctet-stream&Host=kplus.live.ott.irdeto.com&Origin=https%3A%2F%2Fxem.kplus.vn&User-Agent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F92.0.4515.159+Safari%2F537.36|R{{SSM}}
 https://kpluslive.akamaized.net/live/prod_kplus_pm_hd_fps/prod_kplus_pm_hd_fps.isml/prod_kplus_pm_hd_fps.mpd
-#EXTINF:-1 tvg-id="ksport2hd" group-title="🍭| K+" tvg-logo="https://img.kplus.vn/media/channels/sg/channelicons/KSPORT2.png", K+SPORT2 HD
+#EXTINF:-1 tvg-id="ksport2hd" group-title="K+" tvg-logo="https://img.kplus.vn/media/channels/sg/channelicons/KSPORT2.png", K+SPORT2 HD
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://kplus.live.ott.irdeto.com/Widevine/GetLicense?CrmId=kplus&AccountId=kplus&ContentId=400000018&SessionId=B3A30136DB4CCE5E&Ticket=8B2100CB60332994|Accept-Language=vi&Content-Type=application%2Foctet-stream&Host=kplus.live.ott.irdeto.com&Origin=https%3A%2F%2Fxem.kplus.vn&User-Agent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F92.0.4515.159+Safari%2F537.36|R{{SSM}}|Accept-Language=vi&Content-Type=application%2Foctet-stream&Host=kplus.live.ott.irdeto.com&Origin=https%3A%2F%2Fxem.kplus.vn&User-Agent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F92.0.4515.159+Safari%2F537.36|R{{SSM}}
 https://kpluslive.akamaized.net/live/prod_kplus_pc_hd_fps/prod_kplus_pc_hd_fps.isml/prod_kplus_pc_hd_fps.mpd
-#EXTINF:-1 tvg-id="kkidshd" group-title="🍭| K+" tvg-logo="https://img.kplus.vn/media/channels/sg/channelicons/KKIDS.png", K+KIDS HD
+#EXTINF:-1 tvg-id="kkidshd" group-title="K+" tvg-logo="https://img.kplus.vn/media/channels/sg/channelicons/KKIDS.png", K+KIDS HD
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://kplus.live.ott.irdeto.com/Widevine/GetLicense?CrmId=kplus&AccountId=kplus&ContentId=400000019|Accept-Language=vi&Content-Type=application%2Foctet-stream&Host=kplus.live.ott.irdeto.com&Origin=https%3A%2F%2Fxem.kplus.vn&User-Agent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F92.0.4515.159+Safari%2F537.36|R{{SSM}}|Accept-Language=vi&Content-Type=application%2Foctet-stream&Host=kplus.live.ott.irdeto.com&Origin=https%3A%2F%2Fxem.kplus.vn&User-Agent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F92.0.4515.159+Safari%2F537.36|R{{SSM}}
 https://kpluslive.akamaized.net/live/prod_kplus_kids_hd_fps/prod_kplus_kids_hd_fps.isml/prod_kplus_kids_hd_fps.mpd
 
-#EXTINF:-1 tvg-id="klifehd" group-title="🍭| K+" tvg-logo="https://img.kplus.vn/media/channels/sg/channelicons/KLIFE.png", K+LIFE HD (ACE)
+#EXTINF:-1 tvg-id="klifehd" group-title="K+" tvg-logo="https://img.kplus.vn/media/channels/sg/channelicons/KLIFE.png", K+LIFE HD (ACE)
 http://127.0.0.1:6878/ace/getstream?id=bdc6c6efb3572f2710ac16eee1e2e471ea621017
-#EXTINF:-1 tvg-id="ksport1hd" group-title="🍭| K+" tvg-logo="https://img.kplus.vn/media/channels/sg/channelicons/KSPORT1.png", K+SPORT1 HD (ACE)
+#EXTINF:-1 tvg-id="ksport1hd" group-title="K+" tvg-logo="https://img.kplus.vn/media/channels/sg/channelicons/KSPORT1.png", K+SPORT1 HD (ACE)
 http://127.0.0.1:6878/ace/getstream?id=bd1f908352886e3502faad983d9ad8607c7b027d
 
 
