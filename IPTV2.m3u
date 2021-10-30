@@ -101,7 +101,12 @@ http://127.0.0.1:6878/ace/getstream?id=bd1f908352886e3502faad983d9ad8607c7b027d
 
 
 
-
+#EXTINF:-1 group-title="TIENGRUOI.LINK" tvg-logo="https://image-5.gapo.vn/images/8166dc49-93ba-4f42-ad93-b2490c226afc.jpeg",TIENGRUOI.LINK1
+http://127.0.0.1:6878/ace/getstream?id=6995fd79ae02f5559172feaccbfe46e0418c9502
+#EXTINF:-1 group-title="TIENGRUOI.LINK" tvg-logo="https://image-5.gapo.vn/images/8166dc49-93ba-4f42-ad93-b2490c226afc.jpeg",TIENGRUOI.LINK2
+http://127.0.0.1:6878/ace/getstream?id=ef85d17ddd020e6d5924338ee8a246a6be1c7eff
+#EXTINF:-1 group-title="TIENGRUOI.LINK" tvg-logo="https://image-5.gapo.vn/images/8166dc49-93ba-4f42-ad93-b2490c226afc.jpeg",TIENGRUOI.LINK3
+http://127.0.0.1:6878/ace/getstream?id=bdc6c6efb3572f2710ac16eee1e2e471ea621017
 
 
 #EXTINF:-1 tvg-id="vtvcab1hd" group-title="VTVcab" tvg-logo="https://vthanh.xyz/ic/12.png", VTVcab 1 - Vie Giải trí HD
