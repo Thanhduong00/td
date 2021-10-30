@@ -176,6 +176,15 @@ http://mains.services:2086/Bernadette/12345/94129
 http://mains.services:2086/Bernadette/12345/94128
 
 
+#EXTINF:-1 tvg-id="" tvg-name="FR : RMC SPORT 1" tvg-logo="https://cdn.countryflags.com/thumbs/france/flag-round-250.png" group-title="RMC SPORT",FR : RMC SPORT 1
+http://mains.services:2086/Bernadette/12345/92216
+#EXTINF:-1 tvg-id="" tvg-name="FR : RMC SPORT 2" tvg-logo="https://cdn.countryflags.com/thumbs/france/flag-round-250.png" group-title="RMC SPORT",FR : RMC SPORT 2
+http://mains.services:2086/Bernadette/12345/92217
+#EXTINF:-1 tvg-id="" tvg-name="FR : RMC SPORT 3" tvg-logo="https://cdn.countryflags.com/thumbs/france/flag-round-250.png" group-title="RMC SPORT",FR : RMC SPORT 3
+http://mains.services:2086/Bernadette/12345/92218
+#EXTINF:-1 tvg-id="" tvg-name="FR : RMC SPORT 4" tvg-logo="https://cdn.countryflags.com/thumbs/france/flag-round-250.png" group-title="RMC SPORT",FR : RMC SPORT 4
+http://mains.services:2086/Bernadette/12345/92219
+
 
 #EXTINF:-1 tvg-id="sportsnet360.ca" tvg-name="CA : SPORTSNET 360" tvg-logo="http://p2086.securepoint.io:2086/images/32ab6a97e8b17174268384dee81da3cd.png" group-title="PREMIUM SPORTS",CA : SPORTSNET 360
 http://mains.services:2086/Bernadette/12345/3227
