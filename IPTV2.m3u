@@ -101,28 +101,7 @@ http://127.0.0.1:6878/ace/getstream?id=bd1f908352886e3502faad983d9ad8607c7b027d
 
 
 
-#EXTINF:-1 group-title="Ace EPL" tvg-logo="https://2.bp.blogspot.com/-bNQAnZx3Om0/V7Y4cjOJwlI/AAAAAAAABuw/Eq4tzaKBcH0RTXV6GOnI1aOAunfa4KRIgCLcB/s1600/leicester-away-red.png",KP
-http://127.0.0.1:6878/ace/getstream?id=6fae558689a5045dd02409711fa3b9bd2a8678dd
-#EXTINF:-1 group-title="Ace EPL" tvg-id="Sport TV 2 HD" tvg-logo="https://www.thesportsdb.com/images/media/logo/wwwxrx1436898851.png",18h30 Leicester-Arsenal 1 SPORT TV2 FHD
-http://127.0.0.1:6878/ace/getstream?id=6fae558689a5045dd02409711fa3b9bd2a8678dd
-#EXTINF:-1 group-title="Ace EPL" tvg-id="Sky Sport 1 HD" tvg-logo="https://fiber.salt.ch/sites/default/files/tvchannels/Sky_Sport_1_HD_PRIMARY_RGB.PNG",18h30 Leicester-Arsenal 2 SKY SPORT 1 DE FHD
-http://127.0.0.1:6878/ace/getstream?id=c76c9dc85bd5beb93a6f9839af9f09a2b15c7fa6
-#EXTINF:-1 group-title="Ace EPL" tvg-logo="https://www.arax.md/assets/channels/519.png",18h30 Leicester-Arsenal 3 SETANTA+ UA FHD
-http://127.0.0.1:6878/ace/getstream?id=eb44e7bd39a1c6bb73a0ab62baa8ae7965d0811f
-#EXTINF:-1 group-title="Ace EPL" tvg-id="DAZN1 ES" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-dazn-1-es-2510.png",18h30 Leicester-Arsenal 4 DAZN 1 ES FHD
-http://127.0.0.1:6878/ace/getstream?id=f8cfb9c8c8f95a8e8848fd15f1b9be1e87d33284
-#EXTINF:-1 group-title="Ace EPL" tvg-logo="https://i.goalzz.com/?i=o%2Fh%2F1%2F833%2Ftv3-sport-hd-2.png",18h30 Leicester-Arsenal 5 TV3 SPORT FHD
-http://127.0.0.1:6878/ace/getstream?id=024526a5659202ec13b077f21ea8e6044d6d7df2
-#EXTINF:-1 group-title="Ace EPL" tvg-id="Canal+ sport" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Canal%2B_Sport_2015.png/400px-Canal%2B_Sport_2015.png",18h30 Leicester-Arsenal 6 CANAL+ SPORT FHD
-http://127.0.0.1:6878/ace/getstream?id=2f5e9dde4e1a3a5c1c65933fdfd240d182d299ac
-#EXTINF:-1 group-title="Ace EPL" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRoHjOy4sM5GuA9a9uDF2c1F7ixu_i9EFcAzw&usqp=CAU",18h30 Leicester-Arsenal 7 SPORT 1 IL HD
-http://127.0.0.1:6878/ace/getstream?id=1885e9bcdda920291dd640c32ac3b137dc7a7b95
-#EXTINF:-1 group-title="Ace EPL" tvg-logo="https://img.sport-tv-guide.live/images/stations/a286.png",18h30 Leicester-Arsenal 8 ZIGGO VOETBAL SD
-http://127.0.0.1:6878/ace/getstream?id=e0d5f1857fb135d83d32b5ba92f4a4f7efec4cb4
-#EXTINF:-1 group-title="Ace EPL" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-premier-sport-cz-1843.png",18h30 Leicester-Arsenal 9 PREMIER SPORT CZ HD
-http://127.0.0.1:6878/ace/getstream?id=b0b2db107f292437139d735b469df71c8a553f46
-#EXTINF:-1 group-title="Ace EPL" tvg-logo="https://betonmobile.ru/wp-content/uploads/2020/09/asdasdasd.jpg",18h30 Leicester-Arsenal 10 PIMPLETV 4 FHD 50FPS
-http://127.0.0.1:6878/ace/getstream?id=722f34a71cedbeb96bda429dc0f4d0e015995ea4
+
 
 
 #EXTINF:-1 tvg-id="vtvcab1hd" group-title="VTVcab" tvg-logo="https://vthanh.xyz/ic/12.png", VTVcab 1 - Vie Giải trí HD
