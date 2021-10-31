@@ -2,67 +2,65 @@
 
 #EXTM3U BEARTV - Luôn cập nhật kênh ổn định
 
-#EXTINF:0 tvg-id="vtv1hd"group-title="VTV" tvg-logo="https://i.ibb.co/gywZ98j/VTV1-HD-BEARTV.png" tvg-chno="1" catchup="append" catchup-days="0.3" catchup-source="https://tshift.fptplay.net/dvr/vtv1hd_1000.stream/chunks_dvr_range-${start}-10800.m3u8",VTV1 HD
+#EXTINF:0 tvg-id="vtv1hd"group-title="VTV - Thời Sự - Chính Trị" tvg-logo="https://i.ibb.co/gywZ98j/VTV1-HD-BEARTV.png" tvg-chno="1" catchup="append" catchup-days="0.3" catchup-source="https://tshift.fptplay.net/dvr/vtv1hd_1000.stream/chunks_dvr_range-${start}-10800.m3u8",VTV1 HD
 #EXTVLCOPT:http-user-agent="BearTV"
 https://vips-livecdn.fptplay.net/hda1/vtv1hd_vhls.smil/chunklist_b5000000.m3u8
 #http://drfamaga5qliv.vcdn.cloud/vtv01/vtv01@1080p.m3u8
-#EXTINF:0 tvg-id="vtv2hd"group-title="VTV" tvg-logo="https://i.ibb.co/khkmQ4F/VTV2-HD-BEARTV.png" tvg-chno="2" catchup="append" catchup-days="0.3" catchup-source="https://tshift.fptplay.net/dvr/vtv2_2000.stream/chunks_dvr_range-${start}-10800.m3u8",VTV2 HD
+#EXTINF:0 tvg-id="vtv2hd"group-title="VTV - Thời Sự - Chính Trị" tvg-logo="https://i.ibb.co/khkmQ4F/VTV2-HD-BEARTV.png" tvg-chno="2" catchup="append" catchup-days="0.3" catchup-source="https://tshift.fptplay.net/dvr/vtv2_2000.stream/chunks_dvr_range-${start}-10800.m3u8",VTV2 HD
 #EXTVLCOPT:http-user-agent="BearTV"
 https://vips-livecdn.fptplay.net/hda1/vtv2_vhls.smil/chunklist_b5000000.m3u8
 #http://drfamaga5qliv.vcdn.cloud/vtv02/vtv02@1080p.m3u8
-#EXTINF:0 tvg-id="vtv3hd"group-title="VTV" tvg-logo="https://i.ibb.co/87vc2Yr/VTV3-HD-BEARTV.png" tvg-chno="3" catchup="append" catchup-days="0.3" catchup-source="https://tshift.fptplay.net/dvr/vtv3hd_1500.stream/chunks_dvr_range-${start}-10800.m3u8",VTV3 HD
+#EXTINF:0 tvg-id="vtv3hd"group-title="VTV - Thời Sự - Chính Trị" tvg-logo="https://i.ibb.co/87vc2Yr/VTV3-HD-BEARTV.png" tvg-chno="3" catchup="append" catchup-days="0.3" catchup-source="https://tshift.fptplay.net/dvr/vtv3hd_1500.stream/chunks_dvr_range-${start}-10800.m3u8",VTV3 HD
 #EXTVLCOPT:http-user-agent="BearTV"
 https://vips-livecdn.fptplay.net/hda1/vtv3hd_vhls.smil/chunklist_b5000000.m3u8
 #http://drfamaga5qliv.vcdn.cloud/vtv03/vtv03@1080p.m3u8
-#EXTINF:0 tvg-id="vtv4hd"group-title="VTV" tvg-logo="https://i.ibb.co/1nWtV9B/VTV4-HD-BEARTV.png" tvg-chno="4" catchup="append" catchup-days="0.3" catchup-source="https://tshift.fptplay.net/dvr/vtv4_2000.stream/chunks_dvr_range-${start}-10800.m3u8",VTV4 HD
+#EXTINF:0 tvg-id="vtv4hd"group-title="VTV - Thời Sự - Chính Trị" tvg-logo="https://i.ibb.co/1nWtV9B/VTV4-HD-BEARTV.png" tvg-chno="4" catchup="append" catchup-days="0.3" catchup-source="https://tshift.fptplay.net/dvr/vtv4_2000.stream/chunks_dvr_range-${start}-10800.m3u8",VTV4 HD
 #EXTVLCOPT:http-user-agent="BearTV"
 https://vips-livecdn.fptplay.net/hda1/vtv4_vhls.smil/chunklist_b5000000.m3u8
 #http://drfamaga5qliv.vcdn.cloud/vtv04/vtv04@1080p.m3u8
-#EXTINF:0 tvg-id="vtv5hd"group-title="VTV" tvg-logo="https://i.ibb.co/3FkgpPp/VTV5-HD-BEARTV.png" tvg-chno="5" catchup="append" catchup-days="0.3" catchup-source="https://tshift.fptplay.net/dvr/vtv5hd_1500.stream/chunks_dvr_range-${start}-10800.m3u8",VTV5 HD
+#EXTINF:0 tvg-id="vtv5hd"group-title="VTV - Thời Sự - Chính Trị" tvg-logo="https://i.ibb.co/3FkgpPp/VTV5-HD-BEARTV.png" tvg-chno="5" catchup="append" catchup-days="0.3" catchup-source="https://tshift.fptplay.net/dvr/vtv5hd_1500.stream/chunks_dvr_range-${start}-10800.m3u8",VTV5 HD
 #EXTVLCOPT:http-user-agent="BearTV"
 https://vips-livecdn.fptplay.net/hda2/vtv5hd_vhls.smil/chunklist_b5000000.m3u8
 #http://drfamaga5qliv.vcdn.cloud/vtv05/vtv05@1080p.m3u8
-#EXTINF:0 tvg-id="vtv6hd"group-title="VTV" tvg-logo="https://i.ibb.co/61MhZPy/VTV6-HD-BEARTV.png" tvg-chno="6" catchup="append" catchup-days="0.3" catchup-source="https://tshift.fptplay.net/dvr/vtv6hd_1500.stream/chunks_dvr_range-${start}-10800.m3u8",VTV6 HD
+#EXTINF:0 tvg-id="vtv6hd"group-title="VTV - Thời Sự - Chính Trị" tvg-logo="https://i.ibb.co/61MhZPy/VTV6-HD-BEARTV.png" tvg-chno="6" catchup="append" catchup-days="0.3" catchup-source="https://tshift.fptplay.net/dvr/vtv6hd_1500.stream/chunks_dvr_range-${start}-10800.m3u8",VTV6 HD
 #EXTVLCOPT:http-user-agent="BearTV"
 https://vips-livecdn.fptplay.net/hda1/vtv6hd_vhls.smil/chunklist_b5000000.m3u8
 #http://drfamaga5qliv.vcdn.cloud/vtv06/vtv06@1080p.m3u8
-#EXTINF:0 tvg-id="vtv7hd"group-title="VTV" tvg-logo="https://i.ibb.co/27xvxDJ/VTV7-HD-BEARTV.png" tvg-chno="7" catchup="append" catchup-days="0.3" catchup-source="https://tshift.fptplay.net/dvr/vtv7hd_1500.stream/chunks_dvr_range-${start}-10800.m3u8,VTV7 HD
+#EXTINF:0 tvg-id="vtv7hd"group-title="VTV - Thời Sự - Chính Trị" tvg-logo="https://i.ibb.co/27xvxDJ/VTV7-HD-BEARTV.png" tvg-chno="7" catchup="append" catchup-days="0.3" catchup-source="https://tshift.fptplay.net/dvr/vtv7hd_1500.stream/chunks_dvr_range-${start}-10800.m3u8,VTV7 HD
 #EXTVLCOPT:http-user-agent="BearTV"
 https://vips-livecdn.fptplay.net/hda3/vtv7hd_vhls.smil/chunklist_b5000000.m3u8
 #http://drfamaga5qliv.vcdn.cloud/vtv07/vtv07@1080p.m3u8
-#EXTINF:0 tvg-id="vtv8hd"group-title="VTV" tvg-logo="https://i.ibb.co/frqfTd1/VTV8-HD-BEARTV.png" tvg-chno="8" catchup="append" catchup-days="0.3" catchup-source="https://tshift.fptplay.net/dvr/vtv8hd_1500.stream/chunks_dvr_range-${start}-10800.m3u8",VTV8 HD
+#EXTINF:0 tvg-id="vtv8hd"group-title="VTV - Thời Sự - Chính Trị" tvg-logo="https://i.ibb.co/frqfTd1/VTV8-HD-BEARTV.png" tvg-chno="8" catchup="append" catchup-days="0.3" catchup-source="https://tshift.fptplay.net/dvr/vtv8hd_1500.stream/chunks_dvr_range-${start}-10800.m3u8",VTV8 HD
 #EXTVLCOPT:http-user-agent="BearTV"
 https://vips-livecdn.fptplay.net/hda2/vtv8hd_vhls.smil/chunklist_b5000000.m3u8
 #http://drfamaga5qliv.vcdn.cloud/vtv08/vtv08@1080p.m3u8
-#EXTINF:0 tvg-id="vtv9hd"group-title="VTV" tvg-logo="https://i.ibb.co/6bFVqfq/VTV9-HD-BEARTV.png" tvg-chno="9" catchup="append" catchup-days="0.3" catchup-source="https://tshift.fptplay.net/dvr/vtv9_1500.stream/chunks_dvr_range-${start}-10800.m3u8,VTV9 HD
+#EXTINF:0 tvg-id="vtv9hd"group-title="VTV - Thời Sự - Chính Trị" tvg-logo="https://i.ibb.co/6bFVqfq/VTV9-HD-BEARTV.png" tvg-chno="9" catchup="append" catchup-days="0.3" catchup-source="https://tshift.fptplay.net/dvr/vtv9_1500.stream/chunks_dvr_range-${start}-10800.m3u8,VTV9 HD
 #EXTVLCOPT:http-user-agent="BearTV"
 #https://htv-drm-live-cdn.fptplay.net/CDN-FPT02/VTV9-HD-1080p/playlist.m3u8
 http://drfamaga5qliv.vcdn.cloud/vtv09/vtv09@1080p.m3u8
-#EXTINF:0 tvg-id="vtv5hdtnb"group-title="VTV" tvg-logo="https://i.ibb.co/Hnc1LPG/VTV5-TNB-BEARTV.png",VTV5 Tây Nam Bộ
+#EXTINF:0 tvg-id="vtv5hdtnb"group-title="VTV - Thời Sự - Chính Trị" tvg-logo="https://i.ibb.co/Hnc1LPG/VTV5-TNB-BEARTV.png",VTV5 Tây Nam Bộ
 https://mutixx5hq1liv.akamaized.net/vtv5tnb/vtv5tnb@720p.m3u8
-#EXTINF:-1 tvg-id="vtv5hdtn" group-title="VTV" tvg-logo="https://i.ibb.co/zVJz2CQ/VTV5-TN-BEARTV.png" ,VTV5 Tây Nguyên
+#EXTINF:-1 tvg-id="vtv5hdtn" group-title="VTV - Thời Sự - Chính Trị" tvg-logo="https://i.ibb.co/zVJz2CQ/VTV5-TN-BEARTV.png" ,VTV5 Tây Nguyên
 https://mutixx5hq1liv.akamaized.net/vtv5tn/vtv5tn@720p.m3u8
-#EXTINF:0 group-title="VTV" tvg-logo="https://i.ibb.co/LSTRSpQ/quangngaitv-BEARTV.png",Quảng Ngãi
-https://livecdn.fptplay.net/sda/quangngai_hls.smil/chunklist_b2500000.m3u8
-
-
-#EXTINF:0 tvg-id="antvhd"group-title="Thời Sự - Chính Trị" tvg-logo="https://i.ibb.co/9wxKmLH/ANTV-BEARTV.png", ANTV HD
+#EXTINF:0 tvg-id="antvhd"group-title="VTV - Thời Sự - Chính Trị" tvg-logo="https://i.ibb.co/9wxKmLH/ANTV-BEARTV.png", ANTV HD
 #EXTVLCOPT:http-user-agent="BearTV"
 https://vips-livecdn.fptplay.net/hda2/anninhtv_vhls.smil/chunklist_b5000000.m3u8
-#EXTINF:0 tvg-id="quochoi" group-title="Thời Sự - Chính Trị" tvg-logo="https://i.ibb.co/Dt2mVGQ/QUOCHOI-BEARTV.png", QUỐC HỘI
+#EXTINF:0 tvg-id="quochoi" group-title="VTV - Thời Sự - Chính Trị" tvg-logo="https://i.ibb.co/Dt2mVGQ/QUOCHOI-BEARTV.png", QUỐC HỘI
 http://113.164.225.140:1935/live/quochoitvlive.stream_360p/chunklist_w880738422.m3u8
-#EXTINF:0 tvg-id="qpvnhd" group-title="Thời Sự - Chính Trị" tvg-logo="https://i.ibb.co/SxyVmWr/QPVN-BEARTV.png", QUỐC PHÒNG VIỆT NAM
+#EXTINF:0 tvg-id="qpvnhd" group-title="VTV - Thời Sự - Chính Trị" tvg-logo="https://i.ibb.co/SxyVmWr/QPVN-BEARTV.png", QUỐC PHÒNG VIỆT NAM
 #EXTVLCOPT:http-user-agent="BearTV"
 https://vips-livecdn.fptplay.net/hda1/quocphongvnhd_vhls.smil/chunklist_b5000000.m3u8
-#EXTINF:0 tvg-id="vovtvhd"group-title="Thời Sự - Chính Trị" tvg-logo="https://i.ibb.co/TMVw5Hw/VOV-BEARTV.png",VOV TV HD
+#EXTINF:0 tvg-id="vovtvhd"group-title="VTV - Thời Sự - Chính Trị" tvg-logo="https://i.ibb.co/TMVw5Hw/VOV-BEARTV.png",VOV TV HD
 http://cdn.vovtv.mediatech.vn/vovlive/tv1live.m3u8
-#EXTINF:-1 tvg-id="nhandan"group-title="Thời Sự - Chính Trị" tvg-logo="https://i.ibb.co/Cwb7y50/NHANDAN-BEARTV.png",NHÂN DÂN HD
+#EXTINF:-1 tvg-id="nhandan"group-title="VTV - Thời Sự - Chính Trị" tvg-logo="https://i.ibb.co/Cwb7y50/NHANDAN-BEARTV.png",NHÂN DÂN HD
 https://video.nhandan.thienvietjsc.net/live/nhandan720/chunklist_w1915921234.m3u8
-#EXTINF:-1 tvg-id="ttxvnhd" group-title="Thời Sự - Chính Trị" tvg-logo="https://i.ibb.co/mFj98VJ/VNEWS-BEARTV.png" ,VNews
+#EXTINF:-1 tvg-id="ttxvnhd" group-title="VTV - Thời Sự - Chính Trị" tvg-logo="https://i.ibb.co/mFj98VJ/VNEWS-BEARTV.png" ,VNews
 #EXTVLCOPT:http-user-agent="BearTV"
 https://vips-livecdn.fptplay.net/hda2/ttxvn_vhls.smil/chunklist_b5000000.m3u8
-#EXTINF:-1 tvg-id="ttxvn" tvg-name="TTXVN HD" group-title="Thời Sự - Chính Trị" tvg-logo="https://dhtn.ttxvn.org.vn/Images/files/TTXVN.png" ,TTXVN HD
+#EXTINF:-1 tvg-id="ttxvn" tvg-name="TTXVN HD" group-title="VTV - Thời Sự - Chính Trị" tvg-logo="https://dhtn.ttxvn.org.vn/Images/files/TTXVN.png" ,TTXVN HD
 http://chipcun.dynu.com:333/xemtv47/xemtv47kenh.m3u8?kenh=ttxvn
+#EXTINF:0 group-title="VTV - Thời Sự - Chính Trị" tvg-logo="https://i.ibb.co/LSTRSpQ/quangngaitv-BEARTV.png",Quảng Ngãi
+https://livecdn.fptplay.net/sda/quangngai_hls.smil/chunklist_b2500000.m3u8
 
 
 
@@ -93,21 +91,13 @@ https://kpluslive.akamaized.net/live/prod_kplus_pc_hd_fps/prod_kplus_pc_hd_fps.i
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://kplus.live.ott.irdeto.com/Widevine/GetLicense?CrmId=kplus&AccountId=kplus&ContentId=400000019|Accept-Language=vi&Content-Type=application%2Foctet-stream&Host=kplus.live.ott.irdeto.com&Origin=https%3A%2F%2Fxem.kplus.vn&User-Agent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F92.0.4515.159+Safari%2F537.36|R{{SSM}}|Accept-Language=vi&Content-Type=application%2Foctet-stream&Host=kplus.live.ott.irdeto.com&Origin=https%3A%2F%2Fxem.kplus.vn&User-Agent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F92.0.4515.159+Safari%2F537.36|R{{SSM}}
 https://kpluslive.akamaized.net/live/prod_kplus_kids_hd_fps/prod_kplus_kids_hd_fps.isml/prod_kplus_kids_hd_fps.mpd
-
 #EXTINF:-1 tvg-id="klifehd" group-title="K+" tvg-logo="https://img.kplus.vn/media/channels/sg/channelicons/KLIFE.png", K+LIFE HD (ACE)
 http://127.0.0.1:6878/ace/getstream?id=bdc6c6efb3572f2710ac16eee1e2e471ea621017
 #EXTINF:-1 tvg-id="ksport1hd" group-title="K+" tvg-logo="https://img.kplus.vn/media/channels/sg/channelicons/KSPORT1.png", K+SPORT1 HD (ACE)
 http://127.0.0.1:6878/ace/getstream?id=bd1f908352886e3502faad983d9ad8607c7b027d
 
 
-
-#EXTINF:-1 group-title="TIENGRUOI.LINK" tvg-logo="https://image-5.gapo.vn/images/8166dc49-93ba-4f42-ad93-b2490c226afc.jpeg",TIENGRUOI.LINK1
-http://127.0.0.1:6878/ace/getstream?id=6995fd79ae02f5559172feaccbfe46e0418c9502
-#EXTINF:-1 group-title="TIENGRUOI.LINK" tvg-logo="https://image-5.gapo.vn/images/8166dc49-93ba-4f42-ad93-b2490c226afc.jpeg",TIENGRUOI.LINK2
-http://127.0.0.1:6878/ace/getstream?id=ef85d17ddd020e6d5924338ee8a246a6be1c7eff
-#EXTINF:-1 group-title="TIENGRUOI.LINK" tvg-logo="https://image-5.gapo.vn/images/8166dc49-93ba-4f42-ad93-b2490c226afc.jpeg",TIENGRUOI.LINK3
-http://127.0.0.1:6878/ace/getstream?id=bdc6c6efb3572f2710ac16eee1e2e471ea621017
-
+#-*--VTVcab-*--#
 
 #EXTINF:-1 tvg-id="vtvcab1hd" group-title="VTVcab" tvg-logo="https://vthanh.xyz/ic/12.png", VTVcab 1 - Vie Giải trí HD
 http://vthanh.xyz/vieon.m3u8?type=tivi&kenh=vie-giai-tri-hd
@@ -143,9 +133,19 @@ http://vthanh.xyz/vieon.m3u8?type=tivi&kenh=vie-dramas-hd
 http://vthanh.xyz/sctv.m3u8?id=vtvcab20|Referer=http://sctvonline.vn
 
 
+#-*--Bóng đá Tiengruoi.link-*--#
+
+
+#EXTINF:-1 group-title="TIENGRUOI.LINK" tvg-logo="https://image-5.gapo.vn/images/8166dc49-93ba-4f42-ad93-b2490c226afc.jpeg",TIENGRUOI.LINK1
+http://127.0.0.1:6878/ace/getstream?id=6995fd79ae02f5559172feaccbfe46e0418c9502
+#EXTINF:-1 group-title="TIENGRUOI.LINK" tvg-logo="https://image-5.gapo.vn/images/8166dc49-93ba-4f42-ad93-b2490c226afc.jpeg",TIENGRUOI.LINK2
+http://127.0.0.1:6878/ace/getstream?id=ef85d17ddd020e6d5924338ee8a246a6be1c7eff
+#EXTINF:-1 group-title="TIENGRUOI.LINK" tvg-logo="https://image-5.gapo.vn/images/8166dc49-93ba-4f42-ad93-b2490c226afc.jpeg",TIENGRUOI.LINK3
+http://127.0.0.1:6878/ace/getstream?id=bdc6c6efb3572f2710ac16eee1e2e471ea621017
 
 
 
+#-*--SKY SPORT-*--#
 
 
 #EXTINF:-1 tvg-id="" tvg-name="DE : SKY SPORT 1" tvg-logo="https://cdn.countryflags.com/thumbs/germany/flag-round-250.png" group-title="SKY SPORT",DE : SKY SPORT 1
@@ -174,6 +174,32 @@ http://mains.services:2086/Bernadette/12345/94130
 http://mains.services:2086/Bernadette/12345/94129
 #EXTINF:-1 tvg-id="" tvg-name="IT : SKY SPORT UNO" tvg-logo="https://cdn.countryflags.com/thumbs/italy/flag-round-250.png" group-title="SKY SPORT",IT : SKY SPORT UNO
 http://mains.services:2086/Bernadette/12345/94128
+#EXTINF:-1 tvg-id="skysportsaction.uk" tvg-name="GB : SKY SPORTS ACTION" tvg-logo="http://mains.vip:2086/images/77266ed1a3271d6d6ba940ab9253bcee.png" group-title="SKY SPORT",GB : SKY SPORTS ACTION
+http://mains.services:2086/Bernadette/12345/101183
+#EXTINF:-1 tvg-id="skysportsarena.uk" tvg-name="GB : SKY SPORTS ARENA" tvg-logo="http://p2086.securepoint.io:2086/images/dcf43f17c2443f54cc7e2a3931d58b1f.png" group-title="SKY SPORT",GB : SKY SPORTS ARENA
+http://mains.services:2086/Bernadette/12345/85931
+#EXTINF:-1 tvg-id="skysportscricket.uk" tvg-name="GB : SKY SPORTS CRICKET" tvg-logo="http://mains.vip:2086/images/9bf2cf98b9f84e63ea8e9a3edd3ad033.png" group-title="SKY SPORT",GB : SKY SPORTS CRICKET
+http://mains.services:2086/Bernadette/12345/51106
+#EXTINF:-1 tvg-id="skysportsf1.uk" tvg-name="GB : SKY SPORTS F1" tvg-logo="http://mains.vip:2086/images/a9ab091e980651f7a36a359611d6ba92.png" group-title="SKY SPORT",GB : SKY SPORTS F1
+http://mains.services:2086/Bernadette/12345/67056
+#EXTINF:-1 tvg-id="skysportsfootball.uk" tvg-name="GB : SKY SPORTS FOOTBALL" tvg-logo="http://p2086.securepoint.io:2086/images/67593998f323465bbdf950fe0179275c.png" group-title="SKY SPORT",GB : SKY SPORTS FOOTBALL
+http://mains.services:2086/Bernadette/12345/67057
+#EXTINF:-1 tvg-id="skysportsgolf.uk" tvg-name="GB : SKY SPORTS GOLF" tvg-logo="http://p2086.securepoint.io:2086/images/bfdf22c5f8816ec8f0caf70925f753ea.png" group-title="SKY SPORT",GB : SKY SPORTS GOLF
+http://mains.services:2086/Bernadette/12345/67059
+#EXTINF:-1 tvg-id="skysportsmainevent.uk" tvg-name="GB : SKY SPORTS MAIN EVENT" tvg-logo="http://p2086.securepoint.io:2086/images/82bbaa7fad65436f05649cc9b904df80.png" group-title="SKY SPORT",GB : SKY SPORTS MAIN EVENT
+http://mains.services:2086/Bernadette/12345/67058
+#EXTINF:-1 tvg-id="skysportsmix.uk" tvg-name="GB : SKY SPORTS MIX" tvg-logo="http://p2086.securepoint.io:2086/images/f2d64761853ea926420545a4d34eb361.png" group-title="SKY SPORT",GB : SKY SPORTS MIX
+http://mains.services:2086/Bernadette/12345/67061
+#EXTINF:-1 tvg-id="skysportsnews.uk" tvg-name="GB : SKY SPORTS NEWS" tvg-logo="http://mains.vip:2086/images/e37dc6a2760cc059a02cd3734741ae76.png" group-title="SKY SPORT",GB : SKY SPORTS NEWS
+http://mains.services:2086/Bernadette/12345/67091
+#EXTINF:-1 tvg-id="skysportsnfl.uk" tvg-name="GB : SKY SPORTS NFL" tvg-logo="http://p2086.securepoint.io:2086/images/af168af5d45963061b09b1dd5b01473b.png" group-title="SKY SPORT",GB : SKY SPORTS NFL
+http://mains.services:2086/Bernadette/12345/85930
+#EXTINF:-1 tvg-id="skysportspremiereleague.uk" tvg-name="GB : SKY SPORTS PREMIER LEAGUE" tvg-logo="http://mains.vip:2086/images/fdeb5e06273c362896f5da6804d86295.png" group-title="SKY SPORT",GB : SKY SPORTS PREMIER LEAGUE
+http://mains.services:2086/Bernadette/12345/67060
+#EXTINF:-1 tvg-id="skysportsracing.uk" tvg-name="GB : SKY SPORTS RACING" tvg-logo="http://p2086.securepoint.io:2086/images/ac7527fa9e163778c9d73869d1f6f3eb.png" group-title="SKY SPORT",GB : SKY SPORTS RACING
+http://mains.services:2086/Bernadette/12345/47763
+
+
 
 
 #EXTINF:-1 tvg-id="" tvg-name="FR : RMC SPORT 1" tvg-logo="https://cdn.countryflags.com/thumbs/france/flag-round-250.png" group-title="RMC SPORT",FR : RMC SPORT 1
@@ -184,122 +210,12 @@ http://mains.services:2086/Bernadette/12345/92217
 http://mains.services:2086/Bernadette/12345/92218
 #EXTINF:-1 tvg-id="" tvg-name="FR : RMC SPORT 4" tvg-logo="https://cdn.countryflags.com/thumbs/france/flag-round-250.png" group-title="RMC SPORT",FR : RMC SPORT 4
 http://mains.services:2086/Bernadette/12345/92219
-
-
-#EXTINF:-1 tvg-id="sportsnet360.ca" tvg-name="CA : SPORTSNET 360" tvg-logo="http://p2086.securepoint.io:2086/images/32ab6a97e8b17174268384dee81da3cd.png" group-title="PREMIUM SPORTS",CA : SPORTSNET 360
-http://mains.services:2086/Bernadette/12345/3227
-#EXTINF:-1 tvg-id="sportsneteast.ca" tvg-name="CA : SPORTSNET EAST" tvg-logo="http://p2086.securepoint.io:2086/images/af985280b9d935e68b8fcbe1ff5ab059.png" group-title="PREMIUM SPORTS",CA : SPORTSNET EAST
-http://mains.services:2086/Bernadette/12345/3226
-#EXTINF:-1 tvg-id="sportsnetone.ca" tvg-name="CA : SPORTSNET ONE" tvg-logo="http://mains.vip:2086/images/6066532be04ba136689bbc4b63b6ec7a.png" group-title="PREMIUM SPORTS",CA : SPORTSNET ONE
-http://mains.services:2086/Bernadette/12345/3225
-#EXTINF:-1 tvg-id="sportsnetontario.ca" tvg-name="CA : SPORTSNET ONTARIO" tvg-logo="http://p2086.securepoint.io:2086/images/20c9a350d0e9db7c8c77bef4ec9ea384.png" group-title="PREMIUM SPORTS",CA : SPORTSNET ONTARIO
-http://mains.services:2086/Bernadette/12345/3224
-#EXTINF:-1 tvg-id="sportsnetpacific.ca" tvg-name="CA : SPORTSNET PACIFIC" tvg-logo="http://p2086.securepoint.io:2086/images/c3f2764134bd331c10179c877aa73658.png" group-title="PREMIUM SPORTS",CA : SPORTSNET PACIFIC
-http://mains.services:2086/Bernadette/12345/3223
-#EXTINF:-1 tvg-id="sportsnetwest.ca" tvg-name="CA : SPORTSNET WEST" tvg-logo="http://p2086.securepoint.io:2086/images/af985280b9d935e68b8fcbe1ff5ab059.png" group-title="PREMIUM SPORTS",CA : SPORTSNET WEST
-http://mains.services:2086/Bernadette/12345/3222
-#EXTINF:-1 tvg-id="sportsnetworld.ca" tvg-name="CA : SPORTSNET WORLD" tvg-logo="http://p2086.securepoint.io:2086/images/f04d4760124da5111d441622fff5bdc2.png" group-title="PREMIUM SPORTS",CA : SPORTSNET WORLD
-http://mains.services:2086/Bernadette/12345/3221
-#EXTINF:-1 tvg-id="btsport1.uk" tvg-name="GB : BT SPORTS 1" tvg-logo="http://p2086.securepoint.io:2086/images/cd6dbfe561796589ade4435762d8aca2.png" group-title="PREMIUM SPORTS",GB : BT SPORTS 1
-http://mains.services:2086/Bernadette/12345/67062
-#EXTINF:-1 tvg-id="btsport2.uk" tvg-name="GB : BT SPORTS 2" tvg-logo="http://p2086.securepoint.io:2086/images/cd6dbfe561796589ade4435762d8aca2.png" group-title="PREMIUM SPORTS",GB : BT SPORTS 2
-http://mains.services:2086/Bernadette/12345/67063
-#EXTINF:-1 tvg-id="btsport3.uk" tvg-name="GB : BT SPORTS 3" tvg-logo="http://p2086.securepoint.io:2086/images/cd6dbfe561796589ade4435762d8aca2.png" group-title="PREMIUM SPORTS",GB : BT SPORTS 3
-http://mains.services:2086/Bernadette/12345/67075
-#EXTINF:-1 tvg-id="btsportespn.uk" tvg-name="GB : BT SPORTS ESPN" tvg-logo="http://p2086.securepoint.io:2086/images/fd3f4bbc38c1ded74156342b8097b5dd.png" group-title="PREMIUM SPORTS",GB : BT SPORTS ESPN
-http://mains.services:2086/Bernadette/12345/67076
-#EXTINF:-1 tvg-id="btsportx1.uk" tvg-name="GB : BT SPORTS EXTRA 1" tvg-logo="http://p2086.securepoint.io:2086/images/d395eb6229947fc5549739feee5abc26.png" group-title="PREMIUM SPORTS",GB : BT SPORTS EXTRA 1
-http://mains.services:2086/Bernadette/12345/100001
-#EXTINF:-1 tvg-id="btsportx2.uk" tvg-name="GB : BT SPORTS EXTRA 2" tvg-logo="http://p2086.securepoint.io:2086/images/d9ef080b75a5da51cf5035639844ffed.png" group-title="PREMIUM SPORTS",GB : BT SPORTS EXTRA 2
-http://mains.services:2086/Bernadette/12345/100002
-#EXTINF:-1 tvg-id="btsportx3.uk" tvg-name="GB : BT SPORTS EXTRA 3" tvg-logo="http://p2086.securepoint.io:2086/images/4d7f004527436e7ebdc1206126e231d9.png" group-title="PREMIUM SPORTS",GB : BT SPORTS EXTRA 3
-http://mains.services:2086/Bernadette/12345/100003
-#EXTINF:-1 tvg-id="btsportx4.uk" tvg-name="GB : BT SPORTS EXTRA 4" tvg-logo="http://p2086.securepoint.io:2086/images/ff9b58861d8836fc131753f672760789.png" group-title="PREMIUM SPORTS",GB : BT SPORTS EXTRA 4
-http://mains.services:2086/Bernadette/12345/100004
-#EXTINF:-1 tvg-id="btsportx5.uk" tvg-name="GB : BT SPORTS EXTRA 5" tvg-logo="http://p2086.securepoint.io:2086/images/1e3594d68e5029baa19ded365fcdf2cf.png" group-title="PREMIUM SPORTS",GB : BT SPORTS EXTRA 5
-http://mains.services:2086/Bernadette/12345/100005
-#EXTINF:-1 tvg-id="btsportx6.uk" tvg-name="GB : BT SPORTS EXTRA 6" tvg-logo="http://p2086.securepoint.io:2086/images/95ecb48a87cec666759152b68ed9a272.png" group-title="PREMIUM SPORTS",GB : BT SPORTS EXTRA 6
-http://mains.services:2086/Bernadette/12345/100006
-#EXTINF:-1 tvg-id="eir.sport.1.gb" tvg-name="GB : EIR SPORTS 1" tvg-logo="https://www.eir.ie/opencms/export/sites/default/.galleries/eir/broadband/img_sport.png" group-title="PREMIUM SPORTS",GB : EIR SPORTS 1
-http://mains.services:2086/Bernadette/12345/36252
-#EXTINF:-1 tvg-id="eurosport1.uk" tvg-name="GB : EUROSPORT ONE" tvg-logo="https://d2po7v53a8yrck.cloudfront.net/static/2/Open/92x36_352/Source/27675/eurosport1_dark.png" group-title="PREMIUM SPORTS",GB : EUROSPORT ONE
-http://mains.services:2086/Bernadette/12345/99200
-#EXTINF:-1 tvg-id="eurosport2.uk" tvg-name="GB : EUROSPORT TWO" tvg-logo="https://d2po7v53a8yrck.cloudfront.net/static/2/Open/92x36_352/Source/31358/eurosporttwotv.png" group-title="PREMIUM SPORTS",GB : EUROSPORT TWO
-http://mains.services:2086/Bernadette/12345/99201
-#EXTINF:-1 tvg-id="freesports.uk" tvg-name="GB : FREESPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/b/bf/FreeSportsLogo.jpg/440px-FreeSportsLogo.jpg" group-title="PREMIUM SPORTS",GB : FREESPORTS
-http://mains.services:2086/Bernadette/12345/99228
-#EXTINF:-1 tvg-id="laligatv.uk" tvg-name="GB : LA LIGA TV" tvg-logo="https://d2po7v53a8yrck.cloudfront.net/static/2/Open/92x36_352/Source/83061/laligatv_colordark.png" group-title="PREMIUM SPORTS",GB : LA LIGA TV
-http://mains.services:2086/Bernadette/12345/99199
-#EXTINF:-1 tvg-id="premiersports.uk" tvg-name="GB : PREMIER SPORTS 1" tvg-logo="http://p2086.securepoint.io:2086/images/c30c49c69a7e6afb31e9bf77de8572ed.png" group-title="PREMIUM SPORTS",GB : PREMIER SPORTS 1
-http://mains.services:2086/Bernadette/12345/91782
-#EXTINF:-1 tvg-id="premiersports2.uk" tvg-name="GB : PREMIER SPORTS 2" tvg-logo="https://pbs.twimg.com/media/DOqy0lcW4AAQY0T.png" group-title="PREMIUM SPORTS",GB : PREMIER SPORTS 2
-http://mains.services:2086/Bernadette/12345/91783
-#EXTINF:-1 tvg-id="skysportsaction.uk" tvg-name="GB : SKY SPORTS ACTION" tvg-logo="http://mains.vip:2086/images/77266ed1a3271d6d6ba940ab9253bcee.png" group-title="PREMIUM SPORTS",GB : SKY SPORTS ACTION
-http://mains.services:2086/Bernadette/12345/101183
-#EXTINF:-1 tvg-id="skysportsarena.uk" tvg-name="GB : SKY SPORTS ARENA" tvg-logo="http://p2086.securepoint.io:2086/images/dcf43f17c2443f54cc7e2a3931d58b1f.png" group-title="PREMIUM SPORTS",GB : SKY SPORTS ARENA
-http://mains.services:2086/Bernadette/12345/85931
-#EXTINF:-1 tvg-id="skysportscricket.uk" tvg-name="GB : SKY SPORTS CRICKET" tvg-logo="http://mains.vip:2086/images/9bf2cf98b9f84e63ea8e9a3edd3ad033.png" group-title="PREMIUM SPORTS",GB : SKY SPORTS CRICKET
-http://mains.services:2086/Bernadette/12345/51106
-#EXTINF:-1 tvg-id="skysportsf1.uk" tvg-name="GB : SKY SPORTS F1" tvg-logo="http://mains.vip:2086/images/a9ab091e980651f7a36a359611d6ba92.png" group-title="PREMIUM SPORTS",GB : SKY SPORTS F1
-http://mains.services:2086/Bernadette/12345/67056
-#EXTINF:-1 tvg-id="skysportsfootball.uk" tvg-name="GB : SKY SPORTS FOOTBALL" tvg-logo="http://p2086.securepoint.io:2086/images/67593998f323465bbdf950fe0179275c.png" group-title="PREMIUM SPORTS",GB : SKY SPORTS FOOTBALL
-http://mains.services:2086/Bernadette/12345/67057
-#EXTINF:-1 tvg-id="skysportsgolf.uk" tvg-name="GB : SKY SPORTS GOLF" tvg-logo="http://p2086.securepoint.io:2086/images/bfdf22c5f8816ec8f0caf70925f753ea.png" group-title="PREMIUM SPORTS",GB : SKY SPORTS GOLF
-http://mains.services:2086/Bernadette/12345/67059
-#EXTINF:-1 tvg-id="skysportsmainevent.uk" tvg-name="GB : SKY SPORTS MAIN EVENT" tvg-logo="http://p2086.securepoint.io:2086/images/82bbaa7fad65436f05649cc9b904df80.png" group-title="PREMIUM SPORTS",GB : SKY SPORTS MAIN EVENT
-http://mains.services:2086/Bernadette/12345/67058
-#EXTINF:-1 tvg-id="skysportsmix.uk" tvg-name="GB : SKY SPORTS MIX" tvg-logo="http://p2086.securepoint.io:2086/images/f2d64761853ea926420545a4d34eb361.png" group-title="PREMIUM SPORTS",GB : SKY SPORTS MIX
-http://mains.services:2086/Bernadette/12345/67061
-#EXTINF:-1 tvg-id="skysportsnews.uk" tvg-name="GB : SKY SPORTS NEWS" tvg-logo="http://mains.vip:2086/images/e37dc6a2760cc059a02cd3734741ae76.png" group-title="PREMIUM SPORTS",GB : SKY SPORTS NEWS
-http://mains.services:2086/Bernadette/12345/67091
-#EXTINF:-1 tvg-id="skysportsnfl.uk" tvg-name="GB : SKY SPORTS NFL" tvg-logo="http://p2086.securepoint.io:2086/images/af168af5d45963061b09b1dd5b01473b.png" group-title="PREMIUM SPORTS",GB : SKY SPORTS NFL
-http://mains.services:2086/Bernadette/12345/85930
-#EXTINF:-1 tvg-id="skysportspremiereleague.uk" tvg-name="GB : SKY SPORTS PREMIER LEAGUE" tvg-logo="http://mains.vip:2086/images/fdeb5e06273c362896f5da6804d86295.png" group-title="PREMIUM SPORTS",GB : SKY SPORTS PREMIER LEAGUE
-http://mains.services:2086/Bernadette/12345/67060
-#EXTINF:-1 tvg-id="skysportsracing.uk" tvg-name="GB : SKY SPORTS RACING" tvg-logo="http://p2086.securepoint.io:2086/images/ac7527fa9e163778c9d73869d1f6f3eb.png" group-title="PREMIUM SPORTS",GB : SKY SPORTS RACING
-http://mains.services:2086/Bernadette/12345/47763
-#EXTINF:-1 tvg-id="" tvg-name="US : ADVENTURE SPORTS NETWORK" tvg-logo="https://i.imgur.com/d2o69uW.png" group-title="PREMIUM SPORTS",US : ADVENTURE SPORTS NETWORK
-http://mains.services:2086/Bernadette/12345/56018
-#EXTINF:-1 tvg-id="AltitudeSports.us" tvg-name="US : ALTITUDE SPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/e2/Altitude_Sports_logo.svg/400px-Altitude_Sports_logo.svg.png" group-title="PREMIUM SPORTS",US : ALTITUDE SPORTS
-http://mains.services:2086/Bernadette/12345/99512
-#EXTINF:-1 tvg-id="atandtsportsnetpittsburgh.us" tvg-name="US : AT&T SPORTSNET PITTSBURGH" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/47/Logo_for_AT%26T_SportsNet.svg/520px-Logo_for_AT%26T_SportsNet.svg.png" group-title="PREMIUM SPORTS",US : AT&T SPORTSNET PITTSBURGH
-http://mains.services:2086/Bernadette/12345/100058
-#EXTINF:-1 tvg-id="atandtsportsnetrockymountain.us" tvg-name="US : AT&T SPORTSNET ROCKY MOUNTAINS" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/47/Logo_for_AT%26T_SportsNet.svg/520px-Logo_for_AT%26T_SportsNet.svg.png" group-title="PREMIUM SPORTS",US : AT&T SPORTSNET ROCKY MOUNTAINS
-http://mains.services:2086/Bernadette/12345/100059
-#EXTINF:-1 tvg-id="atandtsportsnetsouthwest.us" tvg-name="US : AT&T SPORTSNET SOUTHWEST" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/47/Logo_for_AT%26T_SportsNet.svg/520px-Logo_for_AT%26T_SportsNet.svg.png" group-title="PREMIUM SPORTS",US : AT&T SPORTSNET SOUTHWEST
-http://mains.services:2086/Bernadette/12345/100060
-#EXTINF:-1 tvg-id="beinsports.us" tvg-name="US : BEIN SPORTS" tvg-logo="http://p2086.securepoint.io:2086/images/cdac01407657cbfe2817641ae84e7fcd.png" group-title="PREMIUM SPORTS",US : BEIN SPORTS
-http://mains.services:2086/Bernadette/12345/352
-#EXTINF:-1 tvg-id="bigtennetwork.us" tvg-name="US : BIG TEN NETWORK" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/bigten-2019.png" group-title="PREMIUM SPORTS",US : BIG TEN NETWORK
-http://mains.services:2086/Bernadette/12345/428
-#EXTINF:-1 tvg-id="cbssportsnetworkusa.us" tvg-name="US : CBS SPORTS HQ" tvg-logo="http://p2086.securepoint.io:2086/images/b33779c739fa3627ea30ec86e75fd9b5.png" group-title="PREMIUM SPORTS",US : CBS SPORTS HQ
-http://mains.services:2086/Bernadette/12345/6730
-#EXTINF:-1 tvg-id="cbssportsnetworkusa.us" tvg-name="US : CBS SPORTS NETWORK" tvg-logo="http://p2086.securepoint.io:2086/images/3ded700a544a255a3ec832e58fa91aa1.png" group-title="PREMIUM SPORTS",US : CBS SPORTS NETWORK
-http://mains.services:2086/Bernadette/12345/220
-#EXTINF:-1 tvg-id="elevensports.us" tvg-name="US : ELEVEN SPORTS NETWORK" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/elevensports.png" group-title="PREMIUM SPORTS",US : ELEVEN SPORTS NETWORK
-http://mains.services:2086/Bernadette/12345/14899
-#EXTINF:-1 tvg-id="espn.us" tvg-name="US : ESPN" tvg-logo="http://p2086.securepoint.io:2086/images/e748f3c03f7c4088e90a0ccb2588e0ed.png" group-title="PREMIUM SPORTS",US : ESPN
-http://mains.services:2086/Bernadette/12345/13604
-#EXTINF:-1 tvg-id="espn2.us" tvg-name="US : ESPN 2" tvg-logo="http://p2086.securepoint.io:2086/images/017f41a2ef4ff9d39f45f680b88cd23b.png" group-title="PREMIUM SPORTS",US : ESPN 2
-http://mains.services:2086/Bernadette/12345/343
-#EXTINF:-1 tvg-id="espnnews.us" tvg-name="US : ESPN NEWS" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/espnews.png" group-title="PREMIUM SPORTS",US : ESPN NEWS
-http://mains.services:2086/Bernadette/12345/1702
-#EXTINF:-1 tvg-id="espnu.us" tvg-name="US : ESPN U" tvg-logo="http://p2086.securepoint.io:2086/images/500b1f7cdad583f9d07c87427babe201.png" group-title="PREMIUM SPORTS",US : ESPN U
-http://mains.services:2086/Bernadette/12345/475
-#EXTINF:-1 tvg-id="nflfantasyzone.us" tvg-name="US : FANTASY SPORTS NETWORK" tvg-logo="http://p2086.securepoint.io:2086/images/0882a6014040b8c19e3f6e7d42297ece.png" group-title="PREMIUM SPORTS",US : FANTASY SPORTS NETWORK
-http://mains.services:2086/Bernadette/12345/21946
-#EXTINF:-1 tvg-id="foxsportssandiego.us" tvg-name="US : FOX SPORTS SAN DIEGO PLUS" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/fsn.png" group-title="PREMIUM SPORTS",US : FOX SPORTS SAN DIEGO PLUS
-http://mains.services:2086/Bernadette/12345/44696
-#EXTINF:-1 tvg-id="golfchannel.us" tvg-name="US : GOLF CHANNEL" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/golf.png" group-title="PREMIUM SPORTS",US : GOLF CHANNEL
-http://mains.services:2086/Bernadette/12345/390
-#EXTINF:-1 tvg-id="thelonghonrnetwork.us" tvg-name="US : LONGHORN NETWORK" tvg-logo="http://mains.vip:2086/images/5c1fd0f31022cbc40af9f785847baaf9.png" group-title="PREMIUM SPORTS",US : LONGHORN NETWORK
-http://mains.services:2086/Bernadette/12345/13562
-#EXTINF:-1 tvg-id="marqueesportsnetwork.us" tvg-name="US : MARQUEE SPORTS NETWORK " tvg-logo="http://p2086.securepoint.io:2086/images/ed0635a905b9419ed3a8445a03443710.png" group-title="PREMIUM SPORTS",US : MARQUEE SPORTS NETWORK 
-http://mains.services:2086/Bernadette/12345/91120
-#EXTINF:-1 tvg-id="masn.us" tvg-name="US : MASN" tvg-logo="http://mains.vip:2086/images/871f04db53349544285b4e2877d734fe.png" group-title="PREMIUM SPORTS",US : MASN
-http://mains.services:2086/Bernadette/12345/99509
-#EXTINF:-1 tvg-id="masn2.us" tvg-name="US : MASN 2" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/e5/MASN-Logo.png/400px-MASN-Logo.png" group-title="PREMIUM SPORTS",US : MASN 2
-http://mains.services:2086/Bernadette/12345/99510
+#EXTINF:-1 tvg-id="beIN.SPORTS.MAX.6.FR.bein" tvg-logo="https://www.edcom.fr/img/actus/Les-cha-nes-RMC-Sport-seulement-9-sur-SFR-1581591780-large.jpg", group-title="RMC SPORT",RMC Sports 1HD
+http://xcchui2.mrnova.online/live/60688_.m3u8?token=tienmedia
+#EXTINF:-1 tvg-id="beIN.SPORTS.MAX.6.FR.bein" tvg-logo="https://www.edcom.fr/img/actus/Les-cha-nes-RMC-Sport-seulement-9-sur-SFR-1581591780-large.jpg", group-title="RMC SPORT",RMC Sports 2HD
+http://xcchui2.mrnova.online/live/60689_.m3u8?token=tienmedia
+#EXTINF:-1 tvg-id="beIN.SPORTS.MAX.6.FR.bein" tvg-logo="https://www.edcom.fr/img/actus/Les-cha-nes-RMC-Sport-seulement-9-sur-SFR-1581591780-large.jpg", group-title="RMC SPORT",RMC Sports 3HD
+#http://212.224.98.209:2200/EX/FR_RMC_SPORT3_HD-fr/tracks-v1a1/mono.m3u8
 
 
 
@@ -309,7 +225,12 @@ http://mains.services:2086/Bernadette/12345/99510
 https://family4you.fun/vn360sport/Mac/gen4k.php?id=101897
 #EXTINF:-1 group-title="Kênh Thể Thao",CVace Channel
 http://127.0.0.1:6878/ace/getstream?id=15a51da0c05f1d65a2dec430274c08865b76d623
-
+#EXTINF:-1 group-title="Kênh Thể Thao",MOVISTAR LALIGA FHD
+http://127.0.0.1:6878/ace/getstream?id=9007568a18c3a3c89fb9e745206a60554c114917
+#EXTINF:-1 group-title="Kênh Thể Thao",MOVISTAR LC FHD
+http://127.0.0.1:6878/ace/getstream?id=b0aa6d932aaf12452c91ed5fb07642c6a31394d7
+#EXTINF:-1 group-title="Kênh Thể Thao",MOVISTAR LC 1 FHD
+http://127.0.0.1:6878/ace/getstream?id=ef759c8ed829801c7455721448b6aa4340220060
 #EXTINF:-1 tvg-id="NEWS_DIGITAL_EN.bein" tvg-logo="https://3.bp.blogspot.com/-4S_V_ACUERc/W_AgJcQXDpI/AAAAAAAAGhc/3KED7KT9qDYKOUg1XX_VZNzFIguR8kwlwCK4BGAYYCw/s1600/logo%2BBein%2Bsport%2BNews.png", group-title="Kênh Thể Thao",Bein Sports New 
 http://62.210.251.227:8081/yacinetv/BeinSportNews/chunks.m3u8
 #EXTINF:-1 tvg-id="beIN_SPORTS1_PREMIUM_Digital_EN.bein" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRtAfMgq14nDO8SypP7tNUXosUcmB88RUUHeA&usqp=CAU", group-title="Kênh Thể Thao",Bein Premium 1HD
@@ -352,12 +273,7 @@ http://primestreams.tv:826/live/takuachenvidia@gmail.com/wBevDzfqb5/98779.m3u8
 http://primestreams.tv:826/live/takuachenvidia@gmail.com/wBevDzfqb5/98787.m3u8
 #EXTINF:-1  tvg-id="beIN.SPORTS.MAX.6.FR.bein" group-title="Kênh Thể Thao" tvg-logo="https://sv1.picz.in.th/images/2021/09/26/CX47yW.jpg",Sky PLeague
 http://primestreams.tv:826/live/takuachenvidia@gmail.com/wBevDzfqb5/98775.m3u8
-#EXTINF:-1 tvg-id="beIN.SPORTS.MAX.6.FR.bein" tvg-logo="https://www.edcom.fr/img/actus/Les-cha-nes-RMC-Sport-seulement-9-sur-SFR-1581591780-large.jpg", group-title="Kênh Thể Thao",RMC Sports 1HD
-http://xcchui2.mrnova.online/live/60688_.m3u8?token=tienmedia
-#EXTINF:-1 tvg-id="beIN.SPORTS.MAX.6.FR.bein" tvg-logo="https://www.edcom.fr/img/actus/Les-cha-nes-RMC-Sport-seulement-9-sur-SFR-1581591780-large.jpg", group-title="Kênh Thể Thao",RMC Sports 2HD
-http://xcchui2.mrnova.online/live/60689_.m3u8?token=tienmedia
-#EXTINF:-1 tvg-id="beIN.SPORTS.MAX.6.FR.bein" tvg-logo="https://www.edcom.fr/img/actus/Les-cha-nes-RMC-Sport-seulement-9-sur-SFR-1581591780-large.jpg", group-title="Kênh Thể Thao",RMC Sports 3HD
-#http://212.224.98.209:2200/EX/FR_RMC_SPORT3_HD-fr/tracks-v1a1/mono.m3u8?
+
 #EXTINF:-1 tvg-id="beIN.SPORTS.1.FR.bein" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSfUriM4ASCH6TWoiftnCCZGr7HTRsQSbVKdQ&usqp=CAU", group-title="Kênh Thể Thao",Bein Pháp 1HD
 http://xcchui2.mrnova.online/live/60685_.m3u8?token=tienmedia
 #EXTINF:-1 tvg-id="beIN.SPORTS.2.FR.bein" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSfUriM4ASCH6TWoiftnCCZGr7HTRsQSbVKdQ&usqp=CAU", group-title="Kênh Thể Thao",Bein Pháp 2HD
@@ -560,6 +476,100 @@ http://69.amanrouf.xyz/live/791001144/index.m3u8
 http://172.107.226.94:25461/live/upvckuzx/rgdfdh1/20.ts
 #EXTINF:-1 tvg-id="beIN_SPORTS_XTRA2_Digital_EN.bein" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTEJlQNUI-U9EiEJjH84kJRcRO0uSPxyiV5NQ&usqp=CAU", group-title="Bein Sports 2 dự phòng",Bein Extral 2HD
 http://172.107.226.94:25461/live/upvckuzx/rgdfdh1/21.ts
+
+
+
+#EXTINF:-1 tvg-id="sportsnet360.ca" tvg-name="CA : SPORTSNET 360" tvg-logo="http://p2086.securepoint.io:2086/images/32ab6a97e8b17174268384dee81da3cd.png" group-title="Kênh Thể Thao",CA : SPORTSNET 360
+http://mains.services:2086/Bernadette/12345/3227
+#EXTINF:-1 tvg-id="sportsneteast.ca" tvg-name="CA : SPORTSNET EAST" tvg-logo="http://p2086.securepoint.io:2086/images/af985280b9d935e68b8fcbe1ff5ab059.png" group-title="Kênh Thể Thao",CA : SPORTSNET EAST
+http://mains.services:2086/Bernadette/12345/3226
+#EXTINF:-1 tvg-id="sportsnetone.ca" tvg-name="CA : SPORTSNET ONE" tvg-logo="http://mains.vip:2086/images/6066532be04ba136689bbc4b63b6ec7a.png" group-title="Kênh Thể Thao",CA : SPORTSNET ONE
+http://mains.services:2086/Bernadette/12345/3225
+#EXTINF:-1 tvg-id="sportsnetontario.ca" tvg-name="CA : SPORTSNET ONTARIO" tvg-logo="http://p2086.securepoint.io:2086/images/20c9a350d0e9db7c8c77bef4ec9ea384.png" group-title="Kênh Thể Thao",CA : SPORTSNET ONTARIO
+http://mains.services:2086/Bernadette/12345/3224
+#EXTINF:-1 tvg-id="sportsnetpacific.ca" tvg-name="CA : SPORTSNET PACIFIC" tvg-logo="http://p2086.securepoint.io:2086/images/c3f2764134bd331c10179c877aa73658.png" group-title="Kênh Thể Thao",CA : SPORTSNET PACIFIC
+http://mains.services:2086/Bernadette/12345/3223
+#EXTINF:-1 tvg-id="sportsnetwest.ca" tvg-name="CA : SPORTSNET WEST" tvg-logo="http://p2086.securepoint.io:2086/images/af985280b9d935e68b8fcbe1ff5ab059.png" group-title="Kênh Thể Thao",CA : SPORTSNET WEST
+http://mains.services:2086/Bernadette/12345/3222
+#EXTINF:-1 tvg-id="sportsnetworld.ca" tvg-name="CA : SPORTSNET WORLD" tvg-logo="http://p2086.securepoint.io:2086/images/f04d4760124da5111d441622fff5bdc2.png" group-title="Kênh Thể Thao",CA : SPORTSNET WORLD
+http://mains.services:2086/Bernadette/12345/3221
+#EXTINF:-1 tvg-id="btsport1.uk" tvg-name="GB : BT SPORTS 1" tvg-logo="http://p2086.securepoint.io:2086/images/cd6dbfe561796589ade4435762d8aca2.png" group-title="Kênh Thể Thao",GB : BT SPORTS 1
+http://mains.services:2086/Bernadette/12345/67062
+#EXTINF:-1 tvg-id="btsport2.uk" tvg-name="GB : BT SPORTS 2" tvg-logo="http://p2086.securepoint.io:2086/images/cd6dbfe561796589ade4435762d8aca2.png" group-title="Kênh Thể Thao",GB : BT SPORTS 2
+http://mains.services:2086/Bernadette/12345/67063
+#EXTINF:-1 tvg-id="btsport3.uk" tvg-name="GB : BT SPORTS 3" tvg-logo="http://p2086.securepoint.io:2086/images/cd6dbfe561796589ade4435762d8aca2.png" group-title="Kênh Thể Thao",GB : BT SPORTS 3
+http://mains.services:2086/Bernadette/12345/67075
+#EXTINF:-1 tvg-id="btsportespn.uk" tvg-name="GB : BT SPORTS ESPN" tvg-logo="http://p2086.securepoint.io:2086/images/fd3f4bbc38c1ded74156342b8097b5dd.png" group-title="Kênh Thể Thao",GB : BT SPORTS ESPN
+http://mains.services:2086/Bernadette/12345/67076
+#EXTINF:-1 tvg-id="btsportx1.uk" tvg-name="GB : BT SPORTS EXTRA 1" tvg-logo="http://p2086.securepoint.io:2086/images/d395eb6229947fc5549739feee5abc26.png" group-title="Kênh Thể Thao",GB : BT SPORTS EXTRA 1
+http://mains.services:2086/Bernadette/12345/100001
+#EXTINF:-1 tvg-id="btsportx2.uk" tvg-name="GB : BT SPORTS EXTRA 2" tvg-logo="http://p2086.securepoint.io:2086/images/d9ef080b75a5da51cf5035639844ffed.png" group-title="Kênh Thể Thao",GB : BT SPORTS EXTRA 2
+http://mains.services:2086/Bernadette/12345/100002
+#EXTINF:-1 tvg-id="btsportx3.uk" tvg-name="GB : BT SPORTS EXTRA 3" tvg-logo="http://p2086.securepoint.io:2086/images/4d7f004527436e7ebdc1206126e231d9.png" group-title="Kênh Thể Thao",GB : BT SPORTS EXTRA 3
+http://mains.services:2086/Bernadette/12345/100003
+#EXTINF:-1 tvg-id="btsportx4.uk" tvg-name="GB : BT SPORTS EXTRA 4" tvg-logo="http://p2086.securepoint.io:2086/images/ff9b58861d8836fc131753f672760789.png" group-title="Kênh Thể Thao",GB : BT SPORTS EXTRA 4
+http://mains.services:2086/Bernadette/12345/100004
+#EXTINF:-1 tvg-id="btsportx5.uk" tvg-name="GB : BT SPORTS EXTRA 5" tvg-logo="http://p2086.securepoint.io:2086/images/1e3594d68e5029baa19ded365fcdf2cf.png" group-title="Kênh Thể Thao",GB : BT SPORTS EXTRA 5
+http://mains.services:2086/Bernadette/12345/100005
+#EXTINF:-1 tvg-id="btsportx6.uk" tvg-name="GB : BT SPORTS EXTRA 6" tvg-logo="http://p2086.securepoint.io:2086/images/95ecb48a87cec666759152b68ed9a272.png" group-title="Kênh Thể Thao",GB : BT SPORTS EXTRA 6
+http://mains.services:2086/Bernadette/12345/100006
+#EXTINF:-1 tvg-id="eir.sport.1.gb" tvg-name="GB : EIR SPORTS 1" tvg-logo="https://www.eir.ie/opencms/export/sites/default/.galleries/eir/broadband/img_sport.png" group-title="Kênh Thể Thao",GB : EIR SPORTS 1
+http://mains.services:2086/Bernadette/12345/36252
+#EXTINF:-1 tvg-id="eurosport1.uk" tvg-name="GB : EUROSPORT ONE" tvg-logo="https://d2po7v53a8yrck.cloudfront.net/static/2/Open/92x36_352/Source/27675/eurosport1_dark.png" group-title="Kênh Thể Thao",GB : EUROSPORT ONE
+http://mains.services:2086/Bernadette/12345/99200
+#EXTINF:-1 tvg-id="eurosport2.uk" tvg-name="GB : EUROSPORT TWO" tvg-logo="https://d2po7v53a8yrck.cloudfront.net/static/2/Open/92x36_352/Source/31358/eurosporttwotv.png" group-title="Kênh Thể Thao",GB : EUROSPORT TWO
+http://mains.services:2086/Bernadette/12345/99201
+#EXTINF:-1 tvg-id="freesports.uk" tvg-name="GB : FREESPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/b/bf/FreeSportsLogo.jpg/440px-FreeSportsLogo.jpg" group-title="Kênh Thể Thao",GB : FREESPORTS
+http://mains.services:2086/Bernadette/12345/99228
+#EXTINF:-1 tvg-id="laligatv.uk" tvg-name="GB : LA LIGA TV" tvg-logo="https://d2po7v53a8yrck.cloudfront.net/static/2/Open/92x36_352/Source/83061/laligatv_colordark.png" group-title="Kênh Thể Thao",GB : LA LIGA TV
+http://mains.services:2086/Bernadette/12345/99199
+#EXTINF:-1 tvg-id="premiersports.uk" tvg-name="GB : PREMIER SPORTS 1" tvg-logo="http://p2086.securepoint.io:2086/images/c30c49c69a7e6afb31e9bf77de8572ed.png" group-title="Kênh Thể Thao",GB : PREMIER SPORTS 1
+http://mains.services:2086/Bernadette/12345/91782
+#EXTINF:-1 tvg-id="premiersports2.uk" tvg-name="GB : PREMIER SPORTS 2" tvg-logo="https://pbs.twimg.com/media/DOqy0lcW4AAQY0T.png" group-title="Kênh Thể Thao",GB : PREMIER SPORTS 2
+http://mains.services:2086/Bernadette/12345/91783
+
+#EXTINF:-1 tvg-id="" tvg-name="US : ADVENTURE SPORTS NETWORK" tvg-logo="https://i.imgur.com/d2o69uW.png" group-title="Kênh Thể Thao",US : ADVENTURE SPORTS NETWORK
+http://mains.services:2086/Bernadette/12345/56018
+#EXTINF:-1 tvg-id="AltitudeSports.us" tvg-name="US : ALTITUDE SPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/e2/Altitude_Sports_logo.svg/400px-Altitude_Sports_logo.svg.png" group-title="Kênh Thể Thao",US : ALTITUDE SPORTS
+http://mains.services:2086/Bernadette/12345/99512
+#EXTINF:-1 tvg-id="atandtsportsnetpittsburgh.us" tvg-name="US : AT&T SPORTSNET PITTSBURGH" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/47/Logo_for_AT%26T_SportsNet.svg/520px-Logo_for_AT%26T_SportsNet.svg.png" group-title="Kênh Thể Thao",US : AT&T SPORTSNET PITTSBURGH
+http://mains.services:2086/Bernadette/12345/100058
+#EXTINF:-1 tvg-id="atandtsportsnetrockymountain.us" tvg-name="US : AT&T SPORTSNET ROCKY MOUNTAINS" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/47/Logo_for_AT%26T_SportsNet.svg/520px-Logo_for_AT%26T_SportsNet.svg.png" group-title="Kênh Thể Thao",US : AT&T SPORTSNET ROCKY MOUNTAINS
+http://mains.services:2086/Bernadette/12345/100059
+#EXTINF:-1 tvg-id="atandtsportsnetsouthwest.us" tvg-name="US : AT&T SPORTSNET SOUTHWEST" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/47/Logo_for_AT%26T_SportsNet.svg/520px-Logo_for_AT%26T_SportsNet.svg.png" group-title="Kênh Thể Thao",US : AT&T SPORTSNET SOUTHWEST
+http://mains.services:2086/Bernadette/12345/100060
+#EXTINF:-1 tvg-id="beinsports.us" tvg-name="US : BEIN SPORTS" tvg-logo="http://p2086.securepoint.io:2086/images/cdac01407657cbfe2817641ae84e7fcd.png" group-title="Kênh Thể Thao",US : BEIN SPORTS
+http://mains.services:2086/Bernadette/12345/352
+#EXTINF:-1 tvg-id="bigtennetwork.us" tvg-name="US : BIG TEN NETWORK" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/bigten-2019.png" group-title="Kênh Thể Thao",US : BIG TEN NETWORK
+http://mains.services:2086/Bernadette/12345/428
+#EXTINF:-1 tvg-id="cbssportsnetworkusa.us" tvg-name="US : CBS SPORTS HQ" tvg-logo="http://p2086.securepoint.io:2086/images/b33779c739fa3627ea30ec86e75fd9b5.png" group-title="Kênh Thể Thao",US : CBS SPORTS HQ
+http://mains.services:2086/Bernadette/12345/6730
+#EXTINF:-1 tvg-id="cbssportsnetworkusa.us" tvg-name="US : CBS SPORTS NETWORK" tvg-logo="http://p2086.securepoint.io:2086/images/3ded700a544a255a3ec832e58fa91aa1.png" group-title="Kênh Thể Thao",US : CBS SPORTS NETWORK
+http://mains.services:2086/Bernadette/12345/220
+#EXTINF:-1 tvg-id="elevensports.us" tvg-name="US : ELEVEN SPORTS NETWORK" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/elevensports.png" group-title="Kênh Thể Thao",US : ELEVEN SPORTS NETWORK
+http://mains.services:2086/Bernadette/12345/14899
+#EXTINF:-1 tvg-id="espn.us" tvg-name="US : ESPN" tvg-logo="http://p2086.securepoint.io:2086/images/e748f3c03f7c4088e90a0ccb2588e0ed.png" group-title="Kênh Thể Thao",US : ESPN
+http://mains.services:2086/Bernadette/12345/13604
+#EXTINF:-1 tvg-id="espn2.us" tvg-name="US : ESPN 2" tvg-logo="http://p2086.securepoint.io:2086/images/017f41a2ef4ff9d39f45f680b88cd23b.png" group-title="Kênh Thể Thao",US : ESPN 2
+http://mains.services:2086/Bernadette/12345/343
+#EXTINF:-1 tvg-id="espnnews.us" tvg-name="US : ESPN NEWS" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/espnews.png" group-title="Kênh Thể Thao",US : ESPN NEWS
+http://mains.services:2086/Bernadette/12345/1702
+#EXTINF:-1 tvg-id="espnu.us" tvg-name="US : ESPN U" tvg-logo="http://p2086.securepoint.io:2086/images/500b1f7cdad583f9d07c87427babe201.png" group-title="Kênh Thể Thao",US : ESPN U
+http://mains.services:2086/Bernadette/12345/475
+#EXTINF:-1 tvg-id="nflfantasyzone.us" tvg-name="US : FANTASY SPORTS NETWORK" tvg-logo="http://p2086.securepoint.io:2086/images/0882a6014040b8c19e3f6e7d42297ece.png" group-title="Kênh Thể Thao",US : FANTASY SPORTS NETWORK
+http://mains.services:2086/Bernadette/12345/21946
+#EXTINF:-1 tvg-id="foxsportssandiego.us" tvg-name="US : FOX SPORTS SAN DIEGO PLUS" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/fsn.png" group-title="Kênh Thể Thao",US : FOX SPORTS SAN DIEGO PLUS
+http://mains.services:2086/Bernadette/12345/44696
+#EXTINF:-1 tvg-id="golfchannel.us" tvg-name="US : GOLF CHANNEL" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/golf.png" group-title="Kênh Thể Thao",US : GOLF CHANNEL
+http://mains.services:2086/Bernadette/12345/390
+#EXTINF:-1 tvg-id="thelonghonrnetwork.us" tvg-name="US : LONGHORN NETWORK" tvg-logo="http://mains.vip:2086/images/5c1fd0f31022cbc40af9f785847baaf9.png" group-title="Kênh Thể Thao",US : LONGHORN NETWORK
+http://mains.services:2086/Bernadette/12345/13562
+#EXTINF:-1 tvg-id="marqueesportsnetwork.us" tvg-name="US : MARQUEE SPORTS NETWORK " tvg-logo="http://p2086.securepoint.io:2086/images/ed0635a905b9419ed3a8445a03443710.png" group-title="Kênh Thể Thao",US : MARQUEE SPORTS NETWORK 
+http://mains.services:2086/Bernadette/12345/91120
+#EXTINF:-1 tvg-id="masn.us" tvg-name="US : MASN" tvg-logo="http://mains.vip:2086/images/871f04db53349544285b4e2877d734fe.png" group-title="Kênh Thể Thao",US : MASN
+http://mains.services:2086/Bernadette/12345/99509
+#EXTINF:-1 tvg-id="masn2.us" tvg-name="US : MASN 2" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/e5/MASN-Logo.png/400px-MASN-Logo.png" group-title="Kênh Thể Thao",US : MASN 2
+http://mains.services:2086/Bernadette/12345/99510
 
 
 
