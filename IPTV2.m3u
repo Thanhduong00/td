@@ -62,7 +62,7 @@ http://chipcun.dynu.com:333/xemtv47/xemtv47kenh.m3u8?kenh=ttxvn
 #EXTINF:0 group-title="VTV - Thời Sự - Chính Trị" tvg-logo="https://i.ibb.co/LSTRSpQ/quangngaitv-BEARTV.png",Quảng Ngãi
 https://livecdn.fptplay.net/sda/quangngai_hls.smil/chunklist_b2500000.m3u8
 
-#EXTINF:-1 group-title="4K" tvg-logo="",Love Nature 4K
+#EXTINF:-1 group-title="4K" tvg-logo="https://ibb.co/nzfHNW0",Love Nature 4K
 https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8
 #EXTINF:-1 group-title="4K" tvg-logo="",RMC 4K
 https://loveu3.000webhostapp.com/geniptv.php?19551
