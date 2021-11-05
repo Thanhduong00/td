@@ -152,6 +152,28 @@ http://127.0.0.1:6878/ace/getstream?id=bdc6c6efb3572f2710ac16eee1e2e471ea621017
 
 
 
+#-*--Cà Khịa--*-
+
+#EXTINF:-1 group-title="Live Thể Thao",CV Media 
+#EXTVLCOPT:http-user-agent="TLNQChannelTV"
+http://127.0.0.1:6878/ace/getstream?id=3ff6dd67f269f7445f9132ca69888049c9b576f4
+#EXTINF:-1 group-title="Live Thể Thao",Cakhia TV1 
+#EXTVLCOPT:http-user-agent="TLNQChannelTV"
+https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@cayhd1/chunklist.m3u8|Referer=https://cakhia.cakhia6.tv/truc-tiep
+#EXTINF:-1 group-title="Live Thể Thao",Cakhia TV2 
+#EXTVLCOPT:http-user-agent="TLNQChannelTV" 
+https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@m301nd/chunklist.m3u8|Referer=https://cakhia.cakhia6.tv/truc-tiep
+#EXTINF:-1 group-title="Live Thể Thao",Cakhia TV3 
+#EXTVLCOPT:http-user-agent="TLNQChannelTV"
+https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@m501nd/chunklist.m3u8|Referer=https://cakhia.cakhia6.tv/truc-tiep
+#EXTINF:-1 group-title="Live Thể Thao",Cakhia TV4 
+#EXTVLCOPT:http-user-agent="TLNQChannelTV"
+https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@m201nd/chunklist.m3u8|Referer=https://cakhia.cakhia6.tv/truc-tiep
+#EXTINF:-1 group-title="Live Thể Thao",Cakhia TV5 
+https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@m202nd/chunklist.m3u8|Referer=https://cakhia.cakhia6.tv/truc-tiep
+
+
+
 #-*--SKY SPORT-*--#
 
 
